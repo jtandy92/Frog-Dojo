@@ -1,0 +1,7413 @@
+fileFormatVersion: 2
+guid: af1d4769a32114c99b71f4d534fc3292
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638633713272441690
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Gaston_All_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 328
+      width: 13
+      height: 21
+    spriteID: 2434de85f83424564ab1b85622fcc13c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 328}
+  - name: Gaston_All_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 179
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 9f653e9b8b4db457899840363b6ec010
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 179, y: 328}
+  - name: Gaston_All_Frame_2
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 715fd6178c15648ddb4c5bc677f57347
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 328}
+  - name: Gaston_All_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.2619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 328
+      width: 13
+      height: 21
+    spriteID: c0b756fb2aec44b4da5dd7c0010a585e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 328}
+  - name: Gaston_All_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.22499998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 249ed84044d484c788ae16b398956fe5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 328}
+  - name: Gaston_All_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.37500003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 1e51bdd4d9bfc47ccbc515111427819f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 328}
+  - name: Gaston_All_Frame_6
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 300
+      width: 14
+      height: 20
+    spriteID: 7acfeb8d851274dc58d66906c7d26ba1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 300}
+  - name: Gaston_All_Frame_7
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 300
+      width: 14
+      height: 20
+    spriteID: 9779cdff5c477406ba7367b4f9b9957e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 300}
+  - name: Gaston_All_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 263
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 9fd4090ba6e2b4adb8d42799065980fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 263, y: 328}
+  - name: Gaston_All_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.2619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 328
+      width: 13
+      height: 21
+    spriteID: 99959f58645264ba09ab3bde4220d379
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 328}
+  - name: Gaston_All_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.18421052}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 273
+      width: 13
+      height: 19
+    spriteID: c0225a71be40b4299b57b82cc4b3ce84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 273}
+  - name: Gaston_All_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.37500003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 328
+      width: 13
+      height: 20
+    spriteID: aae6f79d39a2c4faeb53f4f1487373b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 328}
+  - name: Gaston_All_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 17e667a9531b4413ca1e5b2df85df0f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 328}
+  - name: Gaston_All_Frame_13
+    originalName: 
+    pivot: {x: 0.5666666, y: -0.031250045}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 399
+      y: 273
+      width: 15
+      height: 16
+    spriteID: 96149b983475f47d6bf2aadcbb2437ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 399, y: 273}
+  - name: Gaston_All_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.15625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 412
+      width: 13
+      height: 16
+    spriteID: b0236bb18eb8e48b8b1b98af7b61c5f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 412}
+  - name: Gaston_All_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.40625003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 280
+      y: 412
+      width: 13
+      height: 16
+    spriteID: 30d23beecfeca4e219fd75b9fb1a6844
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 280, y: 412}
+  - name: Gaston_All_Frame_16
+    originalName: 
+    pivot: {x: 0.4583333, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 267
+      y: 357
+      width: 12
+      height: 19
+    spriteID: 888c3137223b44a808432ee3e1d10ca3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 267, y: 357}
+  - name: Gaston_All_Frame_17
+    originalName: 
+    pivot: {x: 0.4583333, y: 0.58333325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 386
+      width: 12
+      height: 18
+    spriteID: 5d187ea2d3f324ca08925ff076b6f902
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 386}
+  - name: Gaston_All_Frame_18
+    originalName: 
+    pivot: {x: 0.4583333, y: 0.617647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 412
+      width: 12
+      height: 17
+    spriteID: 1751e5d12ed004d429b1955b9ff1b499
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 412}
+  - name: Gaston_All_Frame_19
+    originalName: 
+    pivot: {x: 0.49999994, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 412
+      width: 11
+      height: 19
+    spriteID: 387d4bd6f8ca7451faafeae3fa840196
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 412}
+  - name: Gaston_All_Frame_20
+    originalName: 
+    pivot: {x: 0.55, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 441
+      width: 10
+      height: 19
+    spriteID: 5f06ff982ec344e62a3d66669ef2a2d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 441}
+  - name: Gaston_All_Frame_21
+    originalName: 
+    pivot: {x: 0.7173914, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 215
+      width: 23
+      height: 18
+    spriteID: 838de81dc1f604ca99619d009219c5a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 215}
+  - name: Gaston_All_Frame_22
+    originalName: 
+    pivot: {x: 0.51250005, y: 0.6447368}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 40
+      height: 38
+    spriteID: 3b9627c1c8e7647ae9bf4583e06d8b2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Gaston_All_Frame_23
+    originalName: 
+    pivot: {x: 0.24999999, y: 0.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 128
+      width: 26
+      height: 33
+    spriteID: fcc66b5e1172946e1a82359ea293f492
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 128}
+  - name: Gaston_All_Frame_24
+    originalName: 
+    pivot: {x: 0.24074072, y: 0.4473684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 171
+      width: 27
+      height: 19
+    spriteID: d552dc3342e614488a8abbbc695facc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 171}
+  - name: Gaston_All_Frame_25
+    originalName: 
+    pivot: {x: 0.275, y: 0.4473684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 215
+      width: 20
+      height: 19
+    spriteID: fb38a5b747c364fdba013e623e62d0f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 215}
+  - name: Gaston_All_Frame_26
+    originalName: 
+    pivot: {x: 0.29999998, y: 0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 493
+      y: 50
+      width: 15
+      height: 20
+    spriteID: d7d8d730efbc34ed88b6ddbf70d31368
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 493, y: 50}
+  - name: Gaston_All_Frame_27
+    originalName: 
+    pivot: {x: 0.24999999, y: 0.4473684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 328
+      width: 14
+      height: 19
+    spriteID: 4f50944f4e3674ed687836a2feb82c01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 328}
+  - name: Gaston_All_Frame_28
+    originalName: 
+    pivot: {x: 0.34615383, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 469
+      y: 357
+      width: 13
+      height: 17
+    spriteID: 67236026c8cf34b2c8406a2d5a1156fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 469, y: 357}
+  - name: Gaston_All_Frame_29
+    originalName: 
+    pivot: {x: 0.21153845, y: 0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 215
+      width: 26
+      height: 18
+    spriteID: cd79e1f36216f47b88d78eed7a534af0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 215}
+  - name: Gaston_All_Frame_30
+    originalName: 
+    pivot: {x: 0.42307693, y: 0.72368425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 39
+      height: 38
+    spriteID: f2f4d90851fc848af9482ebc6b018033
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: Gaston_All_Frame_31
+    originalName: 
+    pivot: {x: 0.515625, y: 0.6527778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 4
+      width: 32
+      height: 36
+    spriteID: 6fcd20f45f0444356b3b7d6aa1ef8e98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 4}
+  - name: Gaston_All_Frame_32
+    originalName: 
+    pivot: {x: 0.6730769, y: 0.425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 171
+      width: 26
+      height: 20
+    spriteID: 3d7943e5852ad4dd2a7d6fc0af6b5730
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 294, y: 171}
+  - name: Gaston_All_Frame_33
+    originalName: 
+    pivot: {x: 0.37499997, y: 0.4473684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 357
+      width: 12
+      height: 19
+    spriteID: f1f042fcf36404271bd06bc5d883e847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 357}
+  - name: Gaston_All_Frame_34
+    originalName: 
+    pivot: {x: 0.37499997, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 412
+      width: 12
+      height: 17
+    spriteID: 806d5ca14245e40f2991c88f77c16d03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 384, y: 412}
+  - name: Gaston_All_Frame_35
+    originalName: 
+    pivot: {x: 0.29166666, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 386
+      width: 12
+      height: 15
+    spriteID: 6ca9265e19b8d442cb5135d0e2c0b470
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 386}
+  - name: Gaston_All_Frame_36
+    originalName: 
+    pivot: {x: 0.44736838, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 215
+      width: 19
+      height: 18
+    spriteID: e2997b97b945746338be160189ade148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 377, y: 215}
+  - name: Gaston_All_Frame_37
+    originalName: 
+    pivot: {x: 0.36666662, y: 0.28947374}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 273
+      width: 15
+      height: 19
+    spriteID: 81b691142dcda477abefc5e0371e9b0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 273}
+  - name: Gaston_All_Frame_38
+    originalName: 
+    pivot: {x: 0.41250002, y: 0.7972973}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 4
+      width: 40
+      height: 37
+    spriteID: 33bfa888b6a52441289c8ab0af7644af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 4}
+  - name: Gaston_All_Frame_39
+    originalName: 
+    pivot: {x: 0.6346154, y: 0.6527778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 171
+      width: 26
+      height: 36
+    spriteID: bd0fae65eca8e46abba65762aee199bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 171}
+  - name: Gaston_All_Frame_40
+    originalName: 
+    pivot: {x: 0.5961538, y: 0.64062506}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 128
+      width: 26
+      height: 32
+    spriteID: 32ec7580c40d04d5c80ff91d7bbce23e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 128}
+  - name: Gaston_All_Frame_41
+    originalName: 
+    pivot: {x: 0.34374997, y: 0.45238093}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 432
+      y: 215
+      width: 16
+      height: 21
+    spriteID: 84cf39e145eb74d02803c02704e7f8bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 215}
+  - name: Gaston_All_Frame_42
+    originalName: 
+    pivot: {x: 0.3235294, y: 0.5588235}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 247
+      width: 17
+      height: 17
+    spriteID: da2b6ca99246e4857a3ab3c36f48af51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 247}
+  - name: Gaston_All_Frame_43
+    originalName: 
+    pivot: {x: 0.3235294, y: 0.5588235}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 247
+      width: 17
+      height: 17
+    spriteID: ac4c1cc33aa114104a551c323ccba8a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 247}
+  - name: Gaston_All_Frame_44
+    originalName: 
+    pivot: {x: 0.24999999, y: 0.475}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 300
+      width: 14
+      height: 20
+    spriteID: 3fe48009e055a4c0982ae9b185f767d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 300}
+  - name: Gaston_All_Frame_45
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 328
+      width: 13
+      height: 21
+    spriteID: 98b758ea0092443e488a2595cd454d74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 328}
+  - name: Gaston_All_Frame_46
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.37500003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 326
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 6a04dfa2d6b524eb4bcce8ce8f20176b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 326, y: 328}
+  - name: Gaston_All_Frame_47
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 328
+      width: 13
+      height: 21
+    spriteID: 6249fb293c7db4dbfbf10d949b358139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 328}
+  - name: Gaston_All_Frame_48
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.22499998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 7962568bba08040c28d3468fc6511502
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 328}
+  - name: Gaston_All_Frame_49
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.17499998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 498f506d2c37c4a529c6f99eb07d1530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 368, y: 328}
+  - name: Gaston_All_Frame_50
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 389
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 9214f4632b0f0492bbba829e397d74f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: 328}
+  - name: Gaston_All_Frame_51
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.30555558}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 357
+      width: 13
+      height: 18
+    spriteID: 3f23392c549f44804a75f08551bccb05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 357}
+  - name: Gaston_All_Frame_52
+    originalName: 
+    pivot: {x: 0.53571427, y: 0.37500003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 300
+      width: 14
+      height: 20
+    spriteID: e702af4cf67ec4ea193256c041e8c154
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 300}
+  - name: Gaston_All_Frame_53
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 328
+      width: 13
+      height: 21
+    spriteID: 3adcb0a75a1d44b0786c924431285134
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 328}
+  - name: Gaston_All_Frame_54
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.22499998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 410
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 05da86eedb87241c4a593751b8763ce0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 410, y: 328}
+  - name: Gaston_All_Frame_55
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.17499998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 431
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 17e9150758a0a48ba86415ba97e27f4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 431, y: 328}
+  - name: Gaston_All_Frame_56
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 328
+      width: 13
+      height: 20
+    spriteID: 835074d4e3cc74f438d9d33d6b6772ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 328}
+  - name: Gaston_All_Frame_57
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.30555558}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 357
+      width: 13
+      height: 18
+    spriteID: 0b64be82a130d4f329248c46d01aec7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 183, y: 357}
+  - name: Gaston_All_Frame_58
+    originalName: 
+    pivot: {x: 0.53571427, y: 0.30555558}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 386
+      y: 300
+      width: 14
+      height: 18
+    spriteID: 108f971a0dd08441c91cd0a74117af1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 386, y: 300}
+  - name: Gaston_All_Frame_59
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.36111113}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 357
+      width: 13
+      height: 18
+    spriteID: ab0422eb229de4e82aef54206f68559a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 357}
+  - name: Gaston_All_Frame_60
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.38235298}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 490
+      y: 357
+      width: 13
+      height: 17
+    spriteID: c72f06bf7d8ee43d9ba8274ae567bb5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 490, y: 357}
+  - name: Gaston_All_Frame_61
+    originalName: 
+    pivot: {x: 0.590909, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 496
+      y: 412
+      width: 11
+      height: 18
+    spriteID: e1db4852794714dd59d4dac9ec9ed3a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 496, y: 412}
+  - name: Gaston_All_Frame_62
+    originalName: 
+    pivot: {x: 0.6538461, y: 0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 357
+      width: 13
+      height: 18
+    spriteID: ca8a7a65750564ad5b574efd07697265
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 357}
+  - name: Gaston_All_Frame_63
+    originalName: 
+    pivot: {x: 0.63333327, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 273
+      width: 15
+      height: 16
+    spriteID: 16502278e25474665af5e6d039b17b84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 273}
+  - name: Gaston_All_Frame_64
+    originalName: 
+    pivot: {x: 0.65624994, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 341
+      y: 247
+      width: 16
+      height: 17
+    spriteID: 84ad13f0c0de848b3a0ea4eda5fbccb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 341, y: 247}
+  - name: Gaston_All_Frame_65
+    originalName: 
+    pivot: {x: 0.6071428, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 357
+      width: 14
+      height: 17
+    spriteID: 4bb835eb508474260adcb5333bc16679
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 357}
+  - name: Gaston_All_Frame_66
+    originalName: 
+    pivot: {x: 0.28124997, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 491
+      y: 247
+      width: 16
+      height: 16
+    spriteID: ccac8663659894d719cd1254967ab740
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 491, y: 247}
+  - name: Gaston_All_Frame_67
+    originalName: 
+    pivot: {x: 0.46250004, y: 0.2027027}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 4
+      width: 40
+      height: 37
+    spriteID: 5a0e3688041794e77848e7d5a77b889d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 4}
+  - name: Gaston_All_Frame_68
+    originalName: 
+    pivot: {x: 0.6851852, y: 0.18571429}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 128
+      width: 27
+      height: 35
+    spriteID: de139a275d6ba40888cda54d9891b184
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 128}
+  - name: Gaston_All_Frame_69
+    originalName: 
+    pivot: {x: 0.6964286, y: 0.2619048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 128
+      width: 28
+      height: 21
+    spriteID: 63d46733b4424432183d7d42929561b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: 128}
+  - name: Gaston_All_Frame_70
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.30555558}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 215
+      width: 18
+      height: 18
+    spriteID: f675e8b79da554eadacb3eb214211ea6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 215}
+  - name: Gaston_All_Frame_71
+    originalName: 
+    pivot: {x: 0.53124994, y: 0.30555558}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 247
+      width: 16
+      height: 18
+    spriteID: 8b77125878f5f4b2ca520d843cd9b279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 247}
+  - name: Gaston_All_Frame_72
+    originalName: 
+    pivot: {x: 0.65624994, y: 0.32352945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 365
+      y: 247
+      width: 16
+      height: 17
+    spriteID: 71f03a5981c00418db57e7334047dfb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 365, y: 247}
+  - name: Gaston_All_Frame_73
+    originalName: 
+    pivot: {x: 0.65624994, y: 0.34375006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 300
+      width: 16
+      height: 16
+    spriteID: bd54fe2000572444d99d0d618ceb905c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 300}
+  - name: Gaston_All_Frame_74
+    originalName: 
+    pivot: {x: 0.78000003, y: 0.22499998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 171
+      width: 25
+      height: 20
+    spriteID: d44992b97f20741da95f90d459b9cd29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 171}
+  - name: Gaston_All_Frame_75
+    originalName: 
+    pivot: {x: 0.48611113, y: 0.16071427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 88
+      width: 36
+      height: 28
+    spriteID: 92175675be680459db651c2b844618d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 88}
+  - name: Gaston_All_Frame_76
+    originalName: 
+    pivot: {x: 0.26, y: 0.16071427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 50
+      width: 25
+      height: 28
+    spriteID: 5283fd0ad62cc4afcb709e5e76e74e95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 50}
+  - name: Gaston_All_Frame_77
+    originalName: 
+    pivot: {x: 0.38235292, y: 0.24999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 247
+      width: 17
+      height: 18
+    spriteID: 5dda5f847b4c141ad8015f51a9d57532
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 247}
+  - name: Gaston_All_Frame_78
+    originalName: 
+    pivot: {x: 0.3611111, y: 0.26470584}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 247
+      width: 18
+      height: 17
+    spriteID: 17ef1750f9b384743838f6246e24f020
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 247}
+  - name: Gaston_All_Frame_79
+    originalName: 
+    pivot: {x: 0.3611111, y: 0.26470584}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 247
+      width: 18
+      height: 17
+    spriteID: 4a0609fc428284a6b952d7650dc4e1a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 247}
+  - name: Gaston_All_Frame_80
+    originalName: 
+    pivot: {x: 0.30555552, y: 0.29999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 389
+      y: 247
+      width: 18
+      height: 15
+    spriteID: 35b5a41934c8641aead1dc355ef2cf9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: 247}
+  - name: Gaston_All_Frame_81
+    originalName: 
+    pivot: {x: 0.175, y: 0.26470584}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 215
+      width: 20
+      height: 17
+    spriteID: 226249989328b45ad9a22ca1622bcdc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 215}
+  - name: Gaston_All_Frame_82
+    originalName: 
+    pivot: {x: 0.5961538, y: 0.20588234}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 215
+      width: 26
+      height: 17
+    spriteID: 3ba0227ade92a483a8f405aae38f9ed6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 215}
+  - name: Gaston_All_Frame_83
+    originalName: 
+    pivot: {x: 0.525641, y: 0.31666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 289
+      y: 4
+      width: 39
+      height: 30
+    spriteID: befb625f51d974e9f919824bfbd3fdd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 289, y: 4}
+  - name: Gaston_All_Frame_84
+    originalName: 
+    pivot: {x: 0.18749999, y: 0.32812497}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 128
+      width: 24
+      height: 32
+    spriteID: 9673ae608ab244aafb48ddc8b3dd69a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 128}
+  - name: Gaston_All_Frame_85
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.58333325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 408
+      y: 300
+      width: 14
+      height: 18
+    spriteID: 4f2c0cf2c366840f596d6dace5e0b74b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 408, y: 300}
+  - name: Gaston_All_Frame_86
+    originalName: 
+    pivot: {x: 0.53124994, y: 0.58333325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 247
+      width: 16
+      height: 18
+    spriteID: 6d6ba0319d4064acbb4b2c11cc2558e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 208, y: 247}
+  - name: Gaston_All_Frame_87
+    originalName: 
+    pivot: {x: 0.49999994, y: 0.58333325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 415
+      y: 247
+      width: 15
+      height: 18
+    spriteID: 823a8fc64976b47678c21616e875e2eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 415, y: 247}
+  - name: Gaston_All_Frame_88
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 357
+      width: 13
+      height: 18
+    spriteID: 3568bb4fb37de405088997befe8a8b6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 357}
+  - name: Gaston_All_Frame_89
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.37500003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 300
+      width: 14
+      height: 20
+    spriteID: 9ebca75e9290548d2a66e7429030216d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 300}
+  - name: Gaston_All_Frame_90
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 468
+      width: 9
+      height: 21
+    spriteID: 5cd5b90afdce440a1aba8039cb5b5b65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 468}
+  - name: Gaston_All_Frame_91
+    originalName: 
+    pivot: {x: 0.45, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 412
+      width: 10
+      height: 20
+    spriteID: f130fc6ed201a483fa8aa5aa57e64829
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 412}
+  - name: Gaston_All_Frame_92
+    originalName: 
+    pivot: {x: 0.55, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 412
+      width: 10
+      height: 20
+    spriteID: e94a750953d064d8db1c858f04adec95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 442, y: 412}
+  - name: Gaston_All_Frame_93
+    originalName: 
+    pivot: {x: 0.34615383, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 473
+      y: 328
+      width: 13
+      height: 20
+    spriteID: ef2b752f4aefe4952b8e5ffa02c1f84c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 473, y: 328}
+  - name: Gaston_All_Frame_94
+    originalName: 
+    pivot: {x: 0.26923075, y: 0.23684208}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 273
+      width: 13
+      height: 19
+    spriteID: b0290a4cbc1cd4261a366ca2b97dc0f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 273}
+  - name: Gaston_All_Frame_95
+    originalName: 
+    pivot: {x: 0.20833331, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 357
+      width: 12
+      height: 21
+    spriteID: 64d9e61d3610e40f6b16b543ec554918
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 357}
+  - name: Gaston_All_Frame_96
+    originalName: 
+    pivot: {x: 0.38888887, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 21
+      y: 468
+      width: 9
+      height: 21
+    spriteID: 79fbb8009503047c08e8dec2f73964a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 21, y: 468}
+  - name: Gaston_All_Frame_97
+    originalName: 
+    pivot: {x: 0.45, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 412
+      width: 10
+      height: 21
+    spriteID: 049886ed8f3fa402bbd2fc6cd75f27c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 412}
+  - name: Gaston_All_Frame_98
+    originalName: 
+    pivot: {x: 0.55, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 412
+      width: 10
+      height: 21
+    spriteID: ebf1f136c268d4efe961cf79243f74b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 412}
+  - name: Gaston_All_Frame_99
+    originalName: 
+    pivot: {x: 0.34615383, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 328
+      width: 13
+      height: 20
+    spriteID: ae6a807281e4a49268b7f95d5aef1f7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 328}
+  - name: Gaston_All_Frame_100
+    originalName: 
+    pivot: {x: 0.26923075, y: 0.23684208}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 273
+      width: 13
+      height: 19
+    spriteID: e812f3c2a425d478b80e1b977961cb95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 273}
+  - name: Gaston_All_Frame_101
+    originalName: 
+    pivot: {x: 0.20833331, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 357
+      width: 12
+      height: 20
+    spriteID: 3765438e98a394db5aaad28e984f9fc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 357}
+  - name: Gaston_All_Frame_102
+    originalName: 
+    pivot: {x: 0.38888887, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 468
+      width: 9
+      height: 21
+    spriteID: 2125c615b44a24585ae4f4d2ef2e679e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 468}
+  - name: Gaston_All_Frame_103
+    originalName: 
+    pivot: {x: 0.475, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 215
+      width: 20
+      height: 24
+    spriteID: 72d2297347dfb44c9b137dc424f4d9d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 215}
+  - name: Gaston_All_Frame_104
+    originalName: 
+    pivot: {x: 0.45238093, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 171
+      width: 21
+      height: 24
+    spriteID: ebe57e78e991d4e269432cd27f8f75a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 171}
+  - name: Gaston_All_Frame_105
+    originalName: 
+    pivot: {x: 0.43181813, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 171
+      width: 22
+      height: 24
+    spriteID: c31d87d1fbfe34cd8af7fea1d3cfc60d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 171}
+  - name: Gaston_All_Frame_106
+    originalName: 
+    pivot: {x: 0.41304347, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 451
+      y: 128
+      width: 23
+      height: 24
+    spriteID: 7758d84b21bd54c34a310182f01acf21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 451, y: 128}
+  - name: Gaston_All_Frame_107
+    originalName: 
+    pivot: {x: 0.3958333, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 323
+      y: 128
+      width: 24
+      height: 24
+    spriteID: 1957e59a4da6145b6a9345fc99d0e07b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 323, y: 128}
+  - name: Gaston_All_Frame_108
+    originalName: 
+    pivot: {x: 0.35185182, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 50
+      width: 27
+      height: 27
+    spriteID: b3a134154a3b3408e94507ad0f270dfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 320, y: 50}
+  - name: Gaston_All_Frame_109
+    originalName: 
+    pivot: {x: 0.3392857, y: 0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 50
+      width: 28
+      height: 28
+    spriteID: 216013152690a4dd99b2e639615918c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 50}
+  - name: Gaston_All_Frame_110
+    originalName: 
+    pivot: {x: 0.37878785, y: 0.33870965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 88
+      width: 33
+      height: 31
+    spriteID: 9636fffbf3569474d87430073a7e0402
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 88}
+  - name: Gaston_All_Frame_111
+    originalName: 
+    pivot: {x: 0.3472222, y: 0.31666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 464
+      y: 4
+      width: 36
+      height: 30
+    spriteID: b5e21fb3919e54314aa87e78ea55609b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 464, y: 4}
+  - name: Gaston_All_Frame_112
+    originalName: 
+    pivot: {x: 0.14999999, y: 0.38333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 88
+      width: 30
+      height: 30
+    spriteID: ed0a0f9ef9d894eaf93a5c601d6bc346
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 88}
+  - name: Gaston_All_Frame_113
+    originalName: 
+    pivot: {x: 0.34615383, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 301
+      y: 412
+      width: 13
+      height: 16
+    spriteID: 7429300fc8606477d942d1531fe874e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 301, y: 412}
+  - name: Gaston_All_Frame_114
+    originalName: 
+    pivot: {x: 0.475, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 215
+      width: 20
+      height: 24
+    spriteID: e3635fece32b748b2b833982908db4e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 215}
+  - name: Gaston_All_Frame_115
+    originalName: 
+    pivot: {x: 0.45238093, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 392
+      y: 171
+      width: 21
+      height: 24
+    spriteID: 42e3c8e094f4540afb2be6fc0b43c669
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 171}
+  - name: Gaston_All_Frame_116
+    originalName: 
+    pivot: {x: 0.43181813, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 171
+      width: 22
+      height: 24
+    spriteID: 52678c63189e64567ae5198234cba3bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 171}
+  - name: Gaston_All_Frame_117
+    originalName: 
+    pivot: {x: 0.41304347, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 482
+      y: 128
+      width: 23
+      height: 24
+    spriteID: bd22157ac323646ee85e904c4557931f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 482, y: 128}
+  - name: Gaston_All_Frame_118
+    originalName: 
+    pivot: {x: 0.3958333, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 128
+      width: 24
+      height: 24
+    spriteID: 7657431e8d3d84e039f0b3029eb777e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 355, y: 128}
+  - name: Gaston_All_Frame_119
+    originalName: 
+    pivot: {x: 0.35185182, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 50
+      width: 27
+      height: 27
+    spriteID: f6e81d03d730f44c2a591a18654227f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 355, y: 50}
+  - name: Gaston_All_Frame_120
+    originalName: 
+    pivot: {x: 0.3392857, y: 0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 50
+      width: 28
+      height: 28
+    spriteID: 711562fff87fb46f5aad78c7fdaa5448
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 50}
+  - name: Gaston_All_Frame_121
+    originalName: 
+    pivot: {x: 0.37878785, y: 0.33870965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 88
+      width: 33
+      height: 31
+    spriteID: dc855e7d9997f4490af7c3b8065c6a39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 88}
+  - name: Gaston_All_Frame_122
+    originalName: 
+    pivot: {x: 0.3472222, y: 0.31666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 50
+      width: 36
+      height: 30
+    spriteID: 3dec340b3ab124b7a8cf964c2d02022f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 50}
+  - name: Gaston_All_Frame_123
+    originalName: 
+    pivot: {x: 0.2272727, y: 0.38333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 88
+      width: 33
+      height: 30
+    spriteID: bd4a5c07c4d8e42bc9d65004f361be9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 88}
+  - name: Gaston_All_Frame_124
+    originalName: 
+    pivot: {x: 0.39285713, y: 0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 412
+      width: 14
+      height: 15
+    spriteID: 0be5610f1bc3b468eae3686d74c4e656
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 412}
+  - name: Gaston_All_Frame_125
+    originalName: 
+    pivot: {x: 0.18421051, y: 0.8636363}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 412
+      width: 19
+      height: 11
+    spriteID: 144a006dca2134602837bc20dd795379
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 412}
+  - name: Gaston_All_Frame_126
+    originalName: 
+    pivot: {x: 0.074999996, y: 1.0384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 300
+      width: 20
+      height: 13
+    spriteID: 7721c175210264753965eab570262b90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 300}
+  - name: Gaston_All_Frame_127
+    originalName: 
+    pivot: {x: 0.074999996, y: 1.0416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 273
+      width: 20
+      height: 12
+    spriteID: 5963031bb1ad34764a122b13ff9dd70a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 445, y: 273}
+  - name: Gaston_All_Frame_128
+    originalName: 
+    pivot: {x: 0.026315788, y: 1.0384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 273
+      width: 19
+      height: 13
+    spriteID: 6402af0ea45a24036b1ddbd5e14e6438
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 273}
+  - name: Gaston_All_Frame_129
+    originalName: 
+    pivot: {x: 0.074999996, y: 1.0357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 285
+      y: 247
+      width: 20
+      height: 14
+    spriteID: 355a426f4f10a4b359d5ce2ecbbd5634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 247}
+  - name: Gaston_All_Frame_130
+    originalName: 
+    pivot: {x: 0.026315788, y: 1.0357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 464
+      y: 247
+      width: 19
+      height: 14
+    spriteID: c4c9d742e96744881b70cd1767a917b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 464, y: 247}
+  - name: Gaston_All_Frame_131
+    originalName: 
+    pivot: {x: 0.026315788, y: 1.1153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 273
+      width: 19
+      height: 13
+    spriteID: 08e3877c4a78b4e85b9132e1844d66b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 273}
+  - name: Gaston_All_Frame_132
+    originalName: 
+    pivot: {x: 0.026315788, y: 1.2083333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 357
+      width: 19
+      height: 12
+    spriteID: 2b30dd165496c434dbdb2ca17ae6303c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 357}
+  - name: Gaston_All_Frame_133
+    originalName: 
+    pivot: {x: 0.024999999, y: 1.1923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 300
+      width: 20
+      height: 13
+    spriteID: 616f4457d30524d8db08cbd70cfd5667
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 300}
+  - name: Gaston_All_Frame_134
+    originalName: 
+    pivot: {x: 0.024999999, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 473
+      y: 273
+      width: 20
+      height: 12
+    spriteID: 19e22c233261e4e1c832cf5f43da04d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 473, y: 273}
+  - name: Gaston_All_Frame_135
+    originalName: 
+    pivot: {x: 0.023809522, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 300
+      width: 21
+      height: 12
+    spriteID: a59353c3bcf3d4639a65c83a38beb83d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 300}
+  - name: Gaston_All_Frame_136
+    originalName: 
+    pivot: {x: 0.023809522, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 459
+      y: 300
+      width: 21
+      height: 12
+    spriteID: 1fd2f1dd946f04d59b2031f09b017d3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 300}
+  - name: Gaston_All_Frame_137
+    originalName: 
+    pivot: {x: 0.023809522, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 273
+      width: 21
+      height: 12
+    spriteID: ed93bb9de59174ffd9a77a644d152d71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 273}
+  - name: Gaston_All_Frame_138
+    originalName: 
+    pivot: {x: 0.19444443, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 247
+      width: 18
+      height: 16
+    spriteID: 906817ca8257e404b93c788ca50bba10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 247}
+  - name: Gaston_All_Frame_139
+    originalName: 
+    pivot: {x: 0.18421051, y: 0.43333337}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 247
+      width: 19
+      height: 15
+    spriteID: 0a19c191fd5124b74b7d90e90b65edc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 247}
+  - name: Gaston_All_Frame_140
+    originalName: 
+    pivot: {x: 0.28124997, y: 0.40625003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 300
+      width: 16
+      height: 16
+    spriteID: 0b2ecf71c79c44800936f40e2e7c4917
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 300}
+  - name: Gaston_All_Frame_141
+    originalName: 
+    pivot: {x: 0.20833331, y: 0.40625003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 386
+      width: 12
+      height: 16
+    spriteID: 7c6e35f26a8fa49b19675219e50ae9ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 386}
+  - name: Gaston_All_Frame_142
+    originalName: 
+    pivot: {x: 0.24999999, y: 0.40625003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 357
+      width: 14
+      height: 16
+    spriteID: 750fd665188024753aad065b7ebca27e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 357}
+  - name: Gaston_All_Frame_143
+    originalName: 
+    pivot: {x: 0.19230768, y: 0.43333337}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 386
+      width: 13
+      height: 15
+    spriteID: 75919e76932a34a09b8b5d88c1f89965
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 386}
+  - name: Gaston_All_Frame_144
+    originalName: 
+    pivot: {x: 0.29166666, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 412
+      width: 12
+      height: 17
+    spriteID: 955582c37d6e240d497eb0436b9f4b42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 412}
+  - name: Gaston_All_Frame_145
+    originalName: 
+    pivot: {x: 0.40909088, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 386
+      width: 11
+      height: 18
+    spriteID: bcc177f3cb5364123bf7aa9fad69aaa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 386}
+  - name: Gaston_All_Frame_146
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 403
+      y: 357
+      width: 14
+      height: 16
+    spriteID: 4cc58c67ea7514c249923d2547438a3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 403, y: 357}
+  - name: Gaston_All_Frame_147
+    originalName: 
+    pivot: {x: 0.12499999, y: 0.33870965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 376
+      y: 4
+      width: 36
+      height: 31
+    spriteID: 3a457ff2e5bdf43079ea439f3025b060
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 376, y: 4}
+  - name: Gaston_All_Frame_148
+    originalName: 
+    pivot: {x: 0.08333332, y: 0.3409091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 128
+      width: 30
+      height: 22
+    spriteID: e46775155c1de434db547cd34d5bc836
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 128}
+  - name: Gaston_All_Frame_149
+    originalName: 
+    pivot: {x: 0.19444443, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 482
+      y: 215
+      width: 18
+      height: 18
+    spriteID: 9089d747d47b34df780853e1ee152582
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 482, y: 215}
+  - name: Gaston_All_Frame_150
+    originalName: 
+    pivot: {x: 0.19230768, y: 0.57692313}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 386
+      width: 13
+      height: 13
+    spriteID: d996c8de83deb4c618453f040396aae8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 386}
+  - name: Gaston_All_Frame_151
+    originalName: 
+    pivot: {x: 0.19230768, y: 0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 265
+      y: 386
+      width: 13
+      height: 12
+    spriteID: 382f02120b15343cf9ccdffdb28d246d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 265, y: 386}
+  - name: Gaston_All_Frame_152
+    originalName: 
+    pivot: {x: 0.19230768, y: 0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 386
+      width: 13
+      height: 12
+    spriteID: 513d6876da64c44c4a9a92700ae7d5ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 286, y: 386}
+  - name: Gaston_All_Frame_153
+    originalName: 
+    pivot: {x: 0.20833331, y: 0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 386
+      width: 12
+      height: 12
+    spriteID: e7c699eee91194aeebe559d54b9e1683
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 386}
+  - name: Gaston_All_Frame_154
+    originalName: 
+    pivot: {x: 0.46428567, y: 0.36111113}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 488
+      y: 300
+      width: 14
+      height: 18
+    spriteID: 00c239cd7c43c440fa1552021cd9c060
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 488, y: 300}
+  - name: Gaston_All_Frame_155
+    originalName: 
+    pivot: {x: 0.2179487, y: 0.48529407}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 4
+      width: 39
+      height: 34
+    spriteID: 718c1a8bd563b4f7dac440de2024a0be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 4}
+  - name: Gaston_All_Frame_156
+    originalName: 
+    pivot: {x: 0.26785713, y: 0.58695656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 128
+      width: 28
+      height: 23
+    spriteID: a2583d54a0f51448ab2de8a8c7dfa5ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 128}
+  - name: Gaston_All_Frame_157
+    originalName: 
+    pivot: {x: 0.4722222, y: 0.5227273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 490
+      y: 88
+      width: 18
+      height: 22
+    spriteID: c4765c209fc9b4212bf5c13a27797892
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 490, y: 88}
+  - name: Gaston_All_Frame_158
+    originalName: 
+    pivot: {x: 0.36666662, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 300
+      width: 15
+      height: 17
+    spriteID: 78f62426142f74d3ba74b75a0d5da58a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 300}
+  - name: Gaston_All_Frame_159
+    originalName: 
+    pivot: {x: 0.24999999, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 412
+      width: 14
+      height: 15
+    spriteID: c764174288c1c400bb33b5224643ecd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 412}
+  - name: Gaston_All_Frame_160
+    originalName: 
+    pivot: {x: 0.34615383, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 386
+      width: 13
+      height: 15
+    spriteID: a9389f06143a848a195535007ebb3ceb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 386}
+  - name: Gaston_All_Frame_161
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.39473686}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 215
+      width: 19
+      height: 19
+    spriteID: b571d35b5b2d9427b929ab1d4d106e0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 269, y: 215}
+  - name: Gaston_All_Frame_162
+    originalName: 
+    pivot: {x: 0.55263156, y: 0.3421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 296
+      y: 215
+      width: 19
+      height: 19
+    spriteID: cac9776f209e94e37b6309f3397728e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 296, y: 215}
+  - name: Gaston_All_Frame_163
+    originalName: 
+    pivot: {x: 0.10937499, y: 0.48437503}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 32
+      height: 32
+    spriteID: e42ece8d382034c7caa105fd87d050b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: Gaston_All_Frame_164
+    originalName: 
+    pivot: {x: 0.10937499, y: 0.537037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 88
+      width: 32
+      height: 27
+    spriteID: 0603ce9bc0b0d49228dccfad64bdc4df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 450, y: 88}
+  - name: Gaston_All_Frame_165
+    originalName: 
+    pivot: {x: 0.12068965, y: 0.58333325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 171
+      width: 29
+      height: 18
+    spriteID: c834b31d69c3c4ff5b1058c5f02baa6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 171}
+  - name: Gaston_All_Frame_166
+    originalName: 
+    pivot: {x: 0.38888887, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 349
+      y: 386
+      width: 9
+      height: 17
+    spriteID: 6417b0e06299543b2ab0553b5547e13a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 349, y: 386}
+  - name: Gaston_All_Frame_167
+    originalName: 
+    pivot: {x: 0.40909088, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 386
+      width: 11
+      height: 18
+    spriteID: 0b4c65dd2e7c54f529efa3f8996aaf7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 386}
+  - name: Gaston_All_Frame_168
+    originalName: 
+    pivot: {x: 0.34615383, y: 0.39473686}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 273
+      width: 13
+      height: 19
+    spriteID: 3d3932970ad2a4eb496cf5e33954c51e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 282, y: 273}
+  - name: Gaston_All_Frame_169
+    originalName: 
+    pivot: {x: 0.38888887, y: 0.37500003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 468
+      width: 9
+      height: 20
+    spriteID: a7d53ad8499d349f0b8858ffeeee7087
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 468}
+  - name: Gaston_All_Frame_170
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 468
+      width: 9
+      height: 21
+    spriteID: a30d3e9fbc59c4d78b88e0b94d77c737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 468}
+  - name: Gaston_All_Frame_171
+    originalName: 
+    pivot: {x: 0.55, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 412
+      width: 10
+      height: 20
+    spriteID: c228758b9f5a34d309b1fc8d8dacdca9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 412}
+  - name: Gaston_All_Frame_172
+    originalName: 
+    pivot: {x: 0.45, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 412
+      width: 10
+      height: 20
+    spriteID: 709a1ae82bd694377860bf03a5b54ae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 478, y: 412}
+  - name: Gaston_All_Frame_173
+    originalName: 
+    pivot: {x: 0.6538461, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 300
+      width: 13
+      height: 20
+    spriteID: 5f134fe3177de4e4e87efa4db9bb2e19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 300}
+  - name: Gaston_All_Frame_174
+    originalName: 
+    pivot: {x: 0.73076916, y: 0.23684208}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 303
+      y: 273
+      width: 13
+      height: 19
+    spriteID: 9be776fbaf5a541b89d4c14f2ea7d57d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 303, y: 273}
+  - name: Gaston_All_Frame_175
+    originalName: 
+    pivot: {x: 0.7916666, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 357
+      width: 12
+      height: 21
+    spriteID: f1825d0a0e1484892b875b483e8de667
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 357}
+  - name: Gaston_All_Frame_176
+    originalName: 
+    pivot: {x: 0.61111104, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 468
+      width: 9
+      height: 21
+    spriteID: da9f58bdd6b9741bda0dda26848f9f37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 468}
+  - name: Gaston_All_Frame_177
+    originalName: 
+    pivot: {x: 0.55, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 412
+      width: 10
+      height: 21
+    spriteID: c717e61a1d7df4798bbf57f9012062e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 412}
+  - name: Gaston_All_Frame_178
+    originalName: 
+    pivot: {x: 0.45, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 412
+      width: 10
+      height: 21
+    spriteID: ef0f96876378f415596cebdcd9c33143
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 412}
+  - name: Gaston_All_Frame_179
+    originalName: 
+    pivot: {x: 0.6538461, y: 0.27500004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 191
+      y: 300
+      width: 13
+      height: 20
+    spriteID: d455e2ca8ae884a9ab1ec406f477a293
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 191, y: 300}
+  - name: Gaston_All_Frame_180
+    originalName: 
+    pivot: {x: 0.7083333, y: 0.23684208}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 357
+      width: 12
+      height: 19
+    spriteID: 468ac0fd981104432b9b32a6e4758eca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 357}
+  - name: Gaston_All_Frame_181
+    originalName: 
+    pivot: {x: 0.7916666, y: 0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 357
+      width: 12
+      height: 20
+    spriteID: cef2547039f374045a4257339f50bc2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 357}
+  - name: Gaston_All_Frame_182
+    originalName: 
+    pivot: {x: 0.61111104, y: 0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 468
+      width: 9
+      height: 21
+    spriteID: 803da02b23d9d4456ab060d559f2bbec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 468}
+  - name: Gaston_All_Frame_183
+    originalName: 
+    pivot: {x: 0.525, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 215
+      width: 20
+      height: 24
+    spriteID: a1a0fefaf14be42e2b11ce3aac8bc6db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 215}
+  - name: Gaston_All_Frame_184
+    originalName: 
+    pivot: {x: 0.547619, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 171
+      width: 21
+      height: 24
+    spriteID: 21e646f41b06d4ff59846446147da530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 171}
+  - name: Gaston_All_Frame_185
+    originalName: 
+    pivot: {x: 0.56818175, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 171
+      width: 22
+      height: 24
+    spriteID: d42c8d20a94d04ddeb9b319ad61c6aab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 171}
+  - name: Gaston_All_Frame_186
+    originalName: 
+    pivot: {x: 0.5869565, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 171
+      width: 23
+      height: 24
+    spriteID: 050af15b983bf40d0b3e8556174d33fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 171}
+  - name: Gaston_All_Frame_187
+    originalName: 
+    pivot: {x: 0.6041666, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 387
+      y: 128
+      width: 24
+      height: 24
+    spriteID: 68510a147ddeb4eb2b8bebd0f73b460e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 387, y: 128}
+  - name: Gaston_All_Frame_188
+    originalName: 
+    pivot: {x: 0.6481482, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 50
+      width: 27
+      height: 27
+    spriteID: 8ee406f66c63640dfba65ce3eaad42c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 50}
+  - name: Gaston_All_Frame_189
+    originalName: 
+    pivot: {x: 0.6607143, y: 0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 50
+      width: 28
+      height: 28
+    spriteID: 45a8789b2fa644ed28a554774363eb24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 50}
+  - name: Gaston_All_Frame_190
+    originalName: 
+    pivot: {x: 0.6212121, y: 0.33870965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 88
+      width: 33
+      height: 31
+    spriteID: 30d786534793a441e9712c85b5f0073b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 88}
+  - name: Gaston_All_Frame_191
+    originalName: 
+    pivot: {x: 0.6527778, y: 0.31666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 50
+      width: 36
+      height: 30
+    spriteID: 7937373dd430e44febe18574762e3105
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 50}
+  - name: Gaston_All_Frame_192
+    originalName: 
+    pivot: {x: 0.84999996, y: 0.38333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 88
+      width: 30
+      height: 30
+    spriteID: f4706f0a6c5ad416994984b1a621fd12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 88}
+  - name: Gaston_All_Frame_193
+    originalName: 
+    pivot: {x: 0.6538461, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 412
+      width: 13
+      height: 16
+    spriteID: add2cfc27ee3f4931810b80be7415082
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 412}
+  - name: Gaston_All_Frame_194
+    originalName: 
+    pivot: {x: 0.525, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 215
+      width: 20
+      height: 24
+    spriteID: c0893def76b0642f989615d65ac20cea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 215}
+  - name: Gaston_All_Frame_195
+    originalName: 
+    pivot: {x: 0.547619, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 171
+      width: 21
+      height: 24
+    spriteID: 3b0ba43dc298c4ea584739ec456a8405
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 450, y: 171}
+  - name: Gaston_All_Frame_196
+    originalName: 
+    pivot: {x: 0.56818175, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 171
+      width: 22
+      height: 24
+    spriteID: 31dd620324318495cb8c3fe4a5eaf4af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 171}
+  - name: Gaston_All_Frame_197
+    originalName: 
+    pivot: {x: 0.5869565, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 171
+      width: 23
+      height: 24
+    spriteID: 85727781832a94258801ff13582a1052
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 171}
+  - name: Gaston_All_Frame_198
+    originalName: 
+    pivot: {x: 0.6041666, y: 0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 419
+      y: 128
+      width: 24
+      height: 24
+    spriteID: e1ccf632d07974284a1436ef24a62c53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: 128}
+  - name: Gaston_All_Frame_199
+    originalName: 
+    pivot: {x: 0.6481482, y: 0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 425
+      y: 50
+      width: 27
+      height: 27
+    spriteID: 0ef35288de49049909987697998f7aba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 50}
+  - name: Gaston_All_Frame_200
+    originalName: 
+    pivot: {x: 0.6607143, y: 0.30357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 50
+      width: 28
+      height: 28
+    spriteID: 26c46ea6529174153b363e9674e59e21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 50}
+  - name: Gaston_All_Frame_201
+    originalName: 
+    pivot: {x: 0.6212121, y: 0.33870965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 88
+      width: 33
+      height: 31
+    spriteID: 4c93cf96b1494406296b2198e3cfa64c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 88}
+  - name: Gaston_All_Frame_202
+    originalName: 
+    pivot: {x: 0.6527778, y: 0.31666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 50
+      width: 36
+      height: 30
+    spriteID: 58e7b9f4a0a06468c8fa748a9148fdde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 50}
+  - name: Gaston_All_Frame_203
+    originalName: 
+    pivot: {x: 0.77272725, y: 0.38333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 88
+      width: 33
+      height: 30
+    spriteID: 74003210b2d9b4edfa8bf171c5a7f52a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 88}
+  - name: Gaston_All_Frame_204
+    originalName: 
+    pivot: {x: 0.6071428, y: 0.56666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 412
+      width: 14
+      height: 15
+    spriteID: 6c2c9faace71b43b19f823f7a650d658
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 412}
+  - name: Gaston_All_Frame_205
+    originalName: 
+    pivot: {x: 0.8157894, y: 0.8636363}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 412
+      width: 19
+      height: 11
+    spriteID: 5fe6d954e0bb545c6bd9bccc915be15a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 412}
+  - name: Gaston_All_Frame_206
+    originalName: 
+    pivot: {x: 0.9250001, y: 1.0384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 300
+      width: 20
+      height: 13
+    spriteID: adb097be504b74f0583eb87d005c44fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 300}
+  - name: Gaston_All_Frame_207
+    originalName: 
+    pivot: {x: 0.9250001, y: 1.0416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 357
+      width: 20
+      height: 12
+    spriteID: f973d83bb7e2047bab3a703f48e74ccf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 357}
+  - name: Gaston_All_Frame_208
+    originalName: 
+    pivot: {x: 0.97368425, y: 1.0384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 273
+      width: 19
+      height: 13
+    spriteID: 0f045282f66884cd09d27ca5cdd49edf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 273}
+  - name: Gaston_All_Frame_209
+    originalName: 
+    pivot: {x: 0.9250001, y: 1.0357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 313
+      y: 247
+      width: 20
+      height: 14
+    spriteID: 729066c6a48074adcb32c67d203ae180
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 313, y: 247}
+  - name: Gaston_All_Frame_210
+    originalName: 
+    pivot: {x: 0.97368425, y: 1.0357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 328
+      width: 19
+      height: 14
+    spriteID: f10ee412c01ee4555a7ff866e3082dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 328}
+  - name: Gaston_All_Frame_211
+    originalName: 
+    pivot: {x: 0.97368425, y: 1.1153846}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 351
+      y: 273
+      width: 19
+      height: 13
+    spriteID: 870fcadf8d7344b1c90fceb7ba1cffd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 351, y: 273}
+  - name: Gaston_All_Frame_212
+    originalName: 
+    pivot: {x: 0.97368425, y: 1.2083333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 357
+      width: 19
+      height: 12
+    spriteID: 9fea69d6366a24215a1a3be733174896
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 357}
+  - name: Gaston_All_Frame_213
+    originalName: 
+    pivot: {x: 0.9750001, y: 1.1923078}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 300
+      width: 20
+      height: 13
+    spriteID: 38fc71e0078aa47b3bb0808e7067203f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 300}
+  - name: Gaston_All_Frame_214
+    originalName: 
+    pivot: {x: 0.9750001, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 357
+      width: 20
+      height: 12
+    spriteID: 997fb342cc48b44b2be60c67316ab59e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 357}
+  - name: Gaston_All_Frame_215
+    originalName: 
+    pivot: {x: 0.9761905, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 273
+      width: 21
+      height: 12
+    spriteID: d2a9181b48b494f469e45f61abca9762
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 273}
+  - name: Gaston_All_Frame_216
+    originalName: 
+    pivot: {x: 0.9761905, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 273
+      width: 21
+      height: 12
+    spriteID: 2bd8731ea253b478fb1f079492188918
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 273}
+  - name: Gaston_All_Frame_217
+    originalName: 
+    pivot: {x: 0.9761905, y: 1.2916667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 273
+      width: 21
+      height: 12
+    spriteID: d0ac932b56be44fb3910408323e06201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 273}
+  - name: Gaston_All_Frame_218
+    originalName: 
+    pivot: {x: 0.74999994, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 247
+      width: 18
+      height: 15
+    spriteID: 459c87ada0a3449ff8f0afd09a9c6ad8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 247}
+  - name: Gaston_All_Frame_219
+    originalName: 
+    pivot: {x: 0.76315784, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 247
+      width: 19
+      height: 16
+    spriteID: 969e9e9c56f3d480eadde4eec215ac7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 247}
+  - name: Gaston_All_Frame_220
+    originalName: 
+    pivot: {x: 0.65624994, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 316
+      y: 300
+      width: 16
+      height: 16
+    spriteID: aaeca92b79b2b4d588b68732732b3858
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 316, y: 300}
+  - name: Gaston_All_Frame_221
+    originalName: 
+    pivot: {x: 0.576923, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 343
+      y: 412
+      width: 13
+      height: 16
+    spriteID: 5b75f3e4cd1fc4c369ea7de03f41fa9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 343, y: 412}
+  - name: Gaston_All_Frame_222
+    originalName: 
+    pivot: {x: 0.6785714, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 425
+      y: 357
+      width: 14
+      height: 16
+    spriteID: d01953dd92afc4491bece9bcac03dd21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 425, y: 357}
+  - name: Gaston_All_Frame_223
+    originalName: 
+    pivot: {x: 0.74999994, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 412
+      width: 14
+      height: 15
+    spriteID: a2671793aac3d47f4ae2f5d1506efb15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 412}
+  - name: Gaston_All_Frame_224
+    originalName: 
+    pivot: {x: 0.7916666, y: 0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 386
+      width: 12
+      height: 16
+    spriteID: e3de541602a4f4b998c45921831b7f1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 386}
+  - name: Gaston_All_Frame_225
+    originalName: 
+    pivot: {x: 0.6818181, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 386
+      width: 11
+      height: 17
+    spriteID: 6308190e090ca4f8a8fa2c0e24f0dadb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 386}
+  - name: Gaston_All_Frame_226
+    originalName: 
+    pivot: {x: 0.53571427, y: 0.53125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 447
+      y: 357
+      width: 14
+      height: 16
+    spriteID: ab037f550abea4d6f95ae4092e5d5e41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 447, y: 357}
+  - name: Gaston_All_Frame_227
+    originalName: 
+    pivot: {x: 0.875, y: 0.33870965}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 4
+      width: 36
+      height: 31
+    spriteID: c9e930ccecc3944f1a69dd2dc570b4aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 4}
+  - name: Gaston_All_Frame_228
+    originalName: 
+    pivot: {x: 0.9166666, y: 0.3409091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 128
+      width: 30
+      height: 22
+    spriteID: ced77ed1b9c8a4253b6a703fc66cf9d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 128}
+  - name: Gaston_All_Frame_229
+    originalName: 
+    pivot: {x: 0.8055555, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 247
+      width: 18
+      height: 18
+    spriteID: 264c999c367ae43748768ff30e4a1162
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 247}
+  - name: Gaston_All_Frame_230
+    originalName: 
+    pivot: {x: 0.8076922, y: 0.57692313}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 386
+      width: 13
+      height: 13
+    spriteID: 77ff817a79d764f2aadfc9ce33a760bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 386}
+  - name: Gaston_All_Frame_231
+    originalName: 
+    pivot: {x: 0.8076922, y: 0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 386
+      width: 13
+      height: 12
+    spriteID: bdbcfb3c1b22e449f8b86e6c41e36913
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 386}
+  - name: Gaston_All_Frame_232
+    originalName: 
+    pivot: {x: 0.8076922, y: 0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 386
+      width: 13
+      height: 12
+    spriteID: 7192afa9f10af4fd0a05a8af2a65489c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 386}
+  - name: Gaston_All_Frame_233
+    originalName: 
+    pivot: {x: 0.7916666, y: 0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 403
+      y: 386
+      width: 12
+      height: 12
+    spriteID: ff1360e86e78d4b10b32b3f1394eec7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 403, y: 386}
+  - name: Gaston_All_Frame_234
+    originalName: 
+    pivot: {x: 0.53571427, y: 0.36111113}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 273
+      width: 14
+      height: 18
+    spriteID: 5caaf185b994840a4b6e78bb9a571bcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 273}
+  - name: Gaston_All_Frame_235
+    originalName: 
+    pivot: {x: 0.78205127, y: 0.48529407}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 4
+      width: 39
+      height: 34
+    spriteID: 49d09be216f5b41c5ad307d72954edbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 4}
+  - name: Gaston_All_Frame_236
+    originalName: 
+    pivot: {x: 0.73214287, y: 0.58695656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 128
+      width: 28
+      height: 23
+    spriteID: f64876543a0d44e4193fc6cc0691dd86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 128}
+  - name: Gaston_All_Frame_237
+    originalName: 
+    pivot: {x: 0.52777773, y: 0.5227273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 215
+      width: 18
+      height: 22
+    spriteID: c0bbc390739974fb7a6e5c1353316941
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 215}
+  - name: Gaston_All_Frame_238
+    originalName: 
+    pivot: {x: 0.63333327, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 300
+      width: 15
+      height: 17
+    spriteID: 39c84ce164b0448f7878831000e0028a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 300}
+  - name: Gaston_All_Frame_239
+    originalName: 
+    pivot: {x: 0.74999994, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 412
+      width: 14
+      height: 15
+    spriteID: 100ab147a0b25442b90dc7d8ee5121e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 412}
+  - name: Gaston_All_Frame_240
+    originalName: 
+    pivot: {x: 0.6538461, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 386
+      width: 13
+      height: 15
+    spriteID: 12c03ba53567d49bd84ec1fd89cb8ee0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 386}
+  - name: Gaston_All_Frame_241
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.39473686}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 323
+      y: 215
+      width: 19
+      height: 19
+    spriteID: 8e700d0c061b74400828987aaaebc6d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 323, y: 215}
+  - name: Gaston_All_Frame_242
+    originalName: 
+    pivot: {x: 0.44736838, y: 0.3421053}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 215
+      width: 19
+      height: 19
+    spriteID: c957ae9a6875a4950900e763f184a4ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 350, y: 215}
+  - name: Gaston_All_Frame_243
+    originalName: 
+    pivot: {x: 0.890625, y: 0.48437503}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 88
+      width: 32
+      height: 32
+    spriteID: a1ded8a448aeb4a6e8327efee7700ca7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 88}
+  - name: Gaston_All_Frame_244
+    originalName: 
+    pivot: {x: 0.890625, y: 0.537037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 50
+      width: 32
+      height: 27
+    spriteID: 92f4d2a215c8e4f1b9fad3a5005a4028
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 50}
+  - name: Gaston_All_Frame_245
+    originalName: 
+    pivot: {x: 0.87931037, y: 0.58333325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 257
+      y: 171
+      width: 29
+      height: 18
+    spriteID: 8b1840d014c324fdfa30f0dbe43a6ca6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 257, y: 171}
+  - name: Gaston_All_Frame_246
+    originalName: 
+    pivot: {x: 0.61111104, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 386
+      width: 9
+      height: 17
+    spriteID: dbad60e1edb984ae48265d08a3a3503d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 366, y: 386}
+  - name: Gaston_All_Frame_247
+    originalName: 
+    pivot: {x: 0.590909, y: 0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 386
+      width: 11
+      height: 18
+    spriteID: 4a8a92172c3b44d2e831f69145359a13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 386}
+  - name: Gaston_All_Frame_248
+    originalName: 
+    pivot: {x: 0.6538461, y: 0.39473686}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 273
+      width: 13
+      height: 19
+    spriteID: bdaf79011da4444aebbcfcf8adf86494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 273}
+  - name: Gaston_All_Frame_249
+    originalName: 
+    pivot: {x: 0.61111104, y: 0.37500003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 468
+      width: 9
+      height: 20
+    spriteID: 4dda4e3b094c448afad9bcbe5bbcf33f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 468}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1223912932
+    name: Gaston_All
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Gaston_All_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 13
+        height: 21
+      spriteId: 2434de85f83424564ab1b85622fcc13c
+    - name: Gaston_All_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 13
+        height: 20
+      spriteId: 9f653e9b8b4db457899840363b6ec010
+    - name: Gaston_All_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 20
+      spriteId: 715fd6178c15648ddb4c5bc677f57347
+    - name: Gaston_All_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 21
+      spriteId: c0b756fb2aec44b4da5dd7c0010a585e
+    - name: Gaston_All_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 13
+        height: 20
+      spriteId: 249ed84044d484c788ae16b398956fe5
+    - name: Gaston_All_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 13
+        height: 20
+      spriteId: 1e51bdd4d9bfc47ccbc515111427819f
+    - name: Gaston_All_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 14
+        height: 20
+      spriteId: 7acfeb8d851274dc58d66906c7d26ba1
+    - name: Gaston_All_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 14
+        height: 20
+      spriteId: 9779cdff5c477406ba7367b4f9b9957e
+    - name: Gaston_All_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 20
+      spriteId: 9fd4090ba6e2b4adb8d42799065980fd
+    - name: Gaston_All_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 21
+      spriteId: 99959f58645264ba09ab3bde4220d379
+    - name: Gaston_All_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 26
+        width: 13
+        height: 19
+      spriteId: c0225a71be40b4299b57b82cc4b3ce84
+    - name: Gaston_All_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 13
+        height: 20
+      spriteId: aae6f79d39a2c4faeb53f4f1487373b0
+    - name: Gaston_All_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 13
+        height: 20
+      spriteId: 17e667a9531b4413ca1e5b2df85df0f5
+    - name: Gaston_All_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 30
+        width: 15
+        height: 16
+      spriteId: 96149b983475f47d6bf2aadcbb2437ea
+    - name: Gaston_All_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 27
+        width: 13
+        height: 16
+      spriteId: b0236bb18eb8e48b8b1b98af7b61c5f9
+    - name: Gaston_All_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 13
+        height: 16
+      spriteId: 30d23beecfeca4e219fd75b9fb1a6844
+    - name: Gaston_All_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 20
+        width: 12
+        height: 19
+      spriteId: 888c3137223b44a808432ee3e1d10ca3
+    - name: Gaston_All_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 12
+        height: 18
+      spriteId: 5d187ea2d3f324ca08925ff076b6f902
+    - name: Gaston_All_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 12
+        height: 17
+      spriteId: 1751e5d12ed004d429b1955b9ff1b499
+    - name: Gaston_All_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 11
+        height: 19
+      spriteId: 387d4bd6f8ca7451faafeae3fa840196
+    - name: Gaston_All_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 19
+        width: 10
+        height: 19
+      spriteId: 5f06ff982ec344e62a3d66669ef2a2d1
+    - name: Gaston_All_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 22
+        width: 23
+        height: 18
+      spriteId: 838de81dc1f604ca99619d009219c5a7
+    - name: Gaston_All_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 5
+        width: 40
+        height: 38
+      spriteId: 3b9627c1c8e7647ae9bf4583e06d8b2f
+    - name: Gaston_All_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 7
+        width: 26
+        height: 33
+      spriteId: fcc66b5e1172946e1a82359ea293f492
+    - name: Gaston_All_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 21
+        width: 27
+        height: 19
+      spriteId: d552dc3342e614488a8abbbc695facc9
+    - name: Gaston_All_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 21
+        width: 20
+        height: 19
+      spriteId: fb38a5b747c364fdba013e623e62d0f9
+    - name: Gaston_All_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 21
+        width: 15
+        height: 20
+      spriteId: d7d8d730efbc34ed88b6ddbf70d31368
+    - name: Gaston_All_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 21
+        width: 14
+        height: 19
+      spriteId: 4f50944f4e3674ed687836a2feb82c01
+    - name: Gaston_All_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 21
+        width: 13
+        height: 17
+      spriteId: 67236026c8cf34b2c8406a2d5a1156fb
+    - name: Gaston_All_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 21
+        width: 26
+        height: 18
+      spriteId: cd79e1f36216f47b88d78eed7a534af0
+    - name: Gaston_All_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 2
+        width: 39
+        height: 38
+      spriteId: f2f4d90851fc848af9482ebc6b018033
+    - name: Gaston_All_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 6
+        width: 32
+        height: 36
+      spriteId: 6fcd20f45f0444356b3b7d6aa1ef8e98
+    - name: Gaston_All_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 21
+        width: 26
+        height: 20
+      spriteId: 3d7943e5852ad4dd2a7d6fc0af6b5730
+    - name: Gaston_All_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 21
+        width: 12
+        height: 19
+      spriteId: f1f042fcf36404271bd06bc5d883e847
+    - name: Gaston_All_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 21
+        width: 12
+        height: 17
+      spriteId: 806d5ca14245e40f2991c88f77c16d03
+    - name: Gaston_All_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 12
+        height: 15
+      spriteId: 6ca9265e19b8d442cb5135d0e2c0b470
+    - name: Gaston_All_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 22
+        width: 19
+        height: 18
+      spriteId: e2997b97b945746338be160189ade148
+    - name: Gaston_All_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 24
+        width: 15
+        height: 19
+      spriteId: 81b691142dcda477abefc5e0371e9b0b
+    - name: Gaston_All_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 40
+        height: 37
+      spriteId: 33bfa888b6a52441289c8ab0af7644af
+    - name: Gaston_All_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 6
+        width: 26
+        height: 36
+      spriteId: bd0fae65eca8e46abba65762aee199bc
+    - name: Gaston_All_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 9
+        width: 26
+        height: 32
+      spriteId: 32ec7580c40d04d5c80ff91d7bbce23e
+    - name: Gaston_All_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 20
+        width: 16
+        height: 21
+      spriteId: 84cf39e145eb74d02803c02704e7f8bc
+    - name: Gaston_All_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 20
+        width: 17
+        height: 17
+      spriteId: da2b6ca99246e4857a3ab3c36f48af51
+    - name: Gaston_All_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 20
+        width: 17
+        height: 17
+      spriteId: ac4c1cc33aa114104a551c323ccba8a8
+    - name: Gaston_All_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 20
+        width: 14
+        height: 20
+      spriteId: 3fe48009e055a4c0982ae9b185f767d8
+    - name: Gaston_All_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 13
+        height: 21
+      spriteId: 98b758ea0092443e488a2595cd454d74
+    - name: Gaston_All_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 13
+        height: 20
+      spriteId: 6a04dfa2d6b524eb4bcce8ce8f20176b
+    - name: Gaston_All_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 13
+        height: 21
+      spriteId: 6249fb293c7db4dbfbf10d949b358139
+    - name: Gaston_All_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 13
+        height: 20
+      spriteId: 7962568bba08040c28d3468fc6511502
+    - name: Gaston_All_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 26
+        width: 13
+        height: 20
+      spriteId: 498f506d2c37c4a529c6f99eb07d1530
+    - name: Gaston_All_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 20
+      spriteId: 9214f4632b0f0492bbba829e397d74f2
+    - name: Gaston_All_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 18
+      spriteId: 3f23392c549f44804a75f08551bccb05
+    - name: Gaston_All_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 22
+        width: 14
+        height: 20
+      spriteId: e702af4cf67ec4ea193256c041e8c154
+    - name: Gaston_All_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 13
+        height: 21
+      spriteId: 3adcb0a75a1d44b0786c924431285134
+    - name: Gaston_All_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 13
+        height: 20
+      spriteId: 05da86eedb87241c4a593751b8763ce0
+    - name: Gaston_All_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 26
+        width: 13
+        height: 20
+      spriteId: 17e9150758a0a48ba86415ba97e27f4a
+    - name: Gaston_All_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 20
+      spriteId: 835074d4e3cc74f438d9d33d6b6772ae
+    - name: Gaston_All_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 24
+        width: 13
+        height: 18
+      spriteId: 0b64be82a130d4f329248c46d01aec7b
+    - name: Gaston_All_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 24
+        width: 14
+        height: 18
+      spriteId: 108f971a0dd08441c91cd0a74117af1e
+    - name: Gaston_All_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 13
+        height: 18
+      spriteId: ab0422eb229de4e82aef54206f68559a
+    - name: Gaston_All_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 13
+        height: 17
+      spriteId: c72f06bf7d8ee43d9ba8274ae567bb5d
+    - name: Gaston_All_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 11
+        height: 18
+      spriteId: e1db4852794714dd59d4dac9ec9ed3a3
+    - name: Gaston_All_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 21
+        width: 13
+        height: 18
+      spriteId: ca8a7a65750564ad5b574efd07697265
+    - name: Gaston_All_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 15
+        height: 16
+      spriteId: 16502278e25474665af5e6d039b17b84
+    - name: Gaston_All_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 16
+        height: 17
+      spriteId: 84ad13f0c0de848b3a0ea4eda5fbccb8
+    - name: Gaston_All_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 22
+        width: 14
+        height: 17
+      spriteId: 4bb835eb508474260adcb5333bc16679
+    - name: Gaston_All_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 16
+        height: 16
+      spriteId: ccac8663659894d719cd1254967ab740
+    - name: Gaston_All_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 22
+        width: 40
+        height: 37
+      spriteId: 5a0e3688041794e77848e7d5a77b889d
+    - name: Gaston_All_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 23
+        width: 27
+        height: 35
+      spriteId: de139a275d6ba40888cda54d9891b184
+    - name: Gaston_All_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 24
+        width: 28
+        height: 21
+      spriteId: 63d46733b4424432183d7d42929561b4
+    - name: Gaston_All_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 24
+        width: 18
+        height: 18
+      spriteId: f675e8b79da554eadacb3eb214211ea6
+    - name: Gaston_All_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 24
+        width: 16
+        height: 18
+      spriteId: 8b77125878f5f4b2ca520d843cd9b279
+    - name: Gaston_All_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 24
+        width: 16
+        height: 17
+      spriteId: 71f03a5981c00418db57e7334047dfb0
+    - name: Gaston_All_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 24
+        width: 16
+        height: 16
+      spriteId: bd54fe2000572444d99d0d618ceb905c
+    - name: Gaston_All_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 25
+        width: 25
+        height: 20
+      spriteId: d44992b97f20741da95f90d459b9cd29
+    - name: Gaston_All_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 25
+        width: 36
+        height: 28
+      spriteId: 92175675be680459db651c2b844618d9
+    - name: Gaston_All_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 25
+        height: 28
+      spriteId: 5283fd0ad62cc4afcb709e5e76e74e95
+    - name: Gaston_All_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 17
+        height: 18
+      spriteId: 5dda5f847b4c141ad8015f51a9d57532
+    - name: Gaston_All_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 18
+        height: 17
+      spriteId: 17ef1750f9b384743838f6246e24f020
+    - name: Gaston_All_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 25
+        width: 18
+        height: 17
+      spriteId: 4a0609fc428284a6b952d7650dc4e1a0
+    - name: Gaston_All_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 25
+        width: 18
+        height: 15
+      spriteId: 35b5a41934c8641aead1dc355ef2cf9c
+    - name: Gaston_All_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 25
+        width: 20
+        height: 17
+      spriteId: 226249989328b45ad9a22ca1622bcdc1
+    - name: Gaston_All_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 26
+        width: 26
+        height: 17
+      spriteId: 3ba0227ade92a483a8f405aae38f9ed6
+    - name: Gaston_All_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 20
+        width: 39
+        height: 30
+      spriteId: befb625f51d974e9f919824bfbd3fdd1
+    - name: Gaston_All_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 19
+        width: 24
+        height: 32
+      spriteId: 9673ae608ab244aafb48ddc8b3dd69a1
+    - name: Gaston_All_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 19
+        width: 14
+        height: 18
+      spriteId: 4f2c0cf2c366840f596d6dace5e0b74b
+    - name: Gaston_All_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 19
+        width: 16
+        height: 18
+      spriteId: 6d6ba0319d4064acbb4b2c11cc2558e6
+    - name: Gaston_All_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 19
+        width: 15
+        height: 18
+      spriteId: 823a8fc64976b47678c21616e875e2eb
+    - name: Gaston_All_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 21
+        width: 13
+        height: 18
+      spriteId: 3568bb4fb37de405088997befe8a8b6f
+    - name: Gaston_All_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 9ebca75e9290548d2a66e7429030216d
+    - name: Gaston_All_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 9
+        height: 21
+      spriteId: 5cd5b90afdce440a1aba8039cb5b5b65
+    - name: Gaston_All_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 23
+        width: 10
+        height: 20
+      spriteId: f130fc6ed201a483fa8aa5aa57e64829
+    - name: Gaston_All_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 10
+        height: 20
+      spriteId: e94a750953d064d8db1c858f04adec95
+    - name: Gaston_All_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 24
+        width: 13
+        height: 20
+      spriteId: ef2b752f4aefe4952b8e5ffa02c1f84c
+    - name: Gaston_All_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 25
+        width: 13
+        height: 19
+      spriteId: b0290a4cbc1cd4261a366ca2b97dc0f6
+    - name: Gaston_All_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 22
+        width: 12
+        height: 21
+      spriteId: 64d9e61d3610e40f6b16b543ec554918
+    - name: Gaston_All_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 9
+        height: 21
+      spriteId: 79fbb8009503047c08e8dec2f73964a4
+    - name: Gaston_All_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 10
+        height: 21
+      spriteId: 049886ed8f3fa402bbd2fc6cd75f27c7
+    - name: Gaston_All_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 10
+        height: 21
+      spriteId: ebf1f136c268d4efe961cf79243f74b5
+    - name: Gaston_All_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 24
+        width: 13
+        height: 20
+      spriteId: ae6a807281e4a49268b7f95d5aef1f7c
+    - name: Gaston_All_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 25
+        width: 13
+        height: 19
+      spriteId: e812f3c2a425d478b80e1b977961cb95
+    - name: Gaston_All_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 23
+        width: 12
+        height: 20
+      spriteId: 3765438e98a394db5aaad28e984f9fc3
+    - name: Gaston_All_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 9
+        height: 21
+      spriteId: 2125c615b44a24585ae4f4d2ef2e679e
+    - name: Gaston_All_Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 20
+        height: 24
+      spriteId: 72d2297347dfb44c9b137dc424f4d9d4
+    - name: Gaston_All_Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 21
+        height: 24
+      spriteId: ebe57e78e991d4e269432cd27f8f75a9
+    - name: Gaston_All_Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 22
+        height: 24
+      spriteId: c31d87d1fbfe34cd8af7fea1d3cfc60d
+    - name: Gaston_All_Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 23
+        height: 24
+      spriteId: 7758d84b21bd54c34a310182f01acf21
+    - name: Gaston_All_Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 24
+        height: 24
+      spriteId: 1957e59a4da6145b6a9345fc99d0e07b
+    - name: Gaston_All_Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 27
+        height: 27
+      spriteId: b3a134154a3b3408e94507ad0f270dfa
+    - name: Gaston_All_Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 21
+        width: 28
+        height: 28
+      spriteId: 216013152690a4dd99b2e639615918c4
+    - name: Gaston_All_Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 19
+        width: 33
+        height: 31
+      spriteId: 9636fffbf3569474d87430073a7e0402
+    - name: Gaston_All_Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 20
+        width: 36
+        height: 30
+      spriteId: b5e21fb3919e54314aa87e78ea55609b
+    - name: Gaston_All_Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 18
+        width: 30
+        height: 30
+      spriteId: ed0a0f9ef9d894eaf93a5c601d6bc346
+    - name: Gaston_All_Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 13
+        height: 16
+      spriteId: 7429300fc8606477d942d1531fe874e8
+    - name: Gaston_All_Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 20
+        height: 24
+      spriteId: e3635fece32b748b2b833982908db4e4
+    - name: Gaston_All_Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 21
+        height: 24
+      spriteId: 42e3c8e094f4540afb2be6fc0b43c669
+    - name: Gaston_All_Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 22
+        height: 24
+      spriteId: 52678c63189e64567ae5198234cba3bd
+    - name: Gaston_All_Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 23
+        height: 24
+      spriteId: bd22157ac323646ee85e904c4557931f
+    - name: Gaston_All_Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 24
+        height: 24
+      spriteId: 7657431e8d3d84e039f0b3029eb777e3
+    - name: Gaston_All_Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 27
+        height: 27
+      spriteId: f6e81d03d730f44c2a591a18654227f2
+    - name: Gaston_All_Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 21
+        width: 28
+        height: 28
+      spriteId: 711562fff87fb46f5aad78c7fdaa5448
+    - name: Gaston_All_Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 19
+        width: 33
+        height: 31
+      spriteId: dc855e7d9997f4490af7c3b8065c6a39
+    - name: Gaston_All_Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 20
+        width: 36
+        height: 30
+      spriteId: 3dec340b3ab124b7a8cf964c2d02022f
+    - name: Gaston_All_Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 18
+        width: 33
+        height: 30
+      spriteId: bd4a5c07c4d8e42bc9d65004f361be9c
+    - name: Gaston_All_Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 21
+        width: 14
+        height: 15
+      spriteId: 0be5610f1bc3b468eae3686d74c4e656
+    - name: Gaston_All_Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 20
+        width: 19
+        height: 11
+      spriteId: 144a006dca2134602837bc20dd795379
+    - name: Gaston_All_Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 16
+        width: 20
+        height: 13
+      spriteId: 7721c175210264753965eab570262b90
+    - name: Gaston_All_Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 17
+        width: 20
+        height: 12
+      spriteId: 5963031bb1ad34764a122b13ff9dd70a
+    - name: Gaston_All_Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 16
+        width: 19
+        height: 13
+      spriteId: 6402af0ea45a24036b1ddbd5e14e6438
+    - name: Gaston_All_Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: 30
+        y: 15
+        width: 20
+        height: 14
+      spriteId: 355a426f4f10a4b359d5ce2ecbbd5634
+    - name: Gaston_All_Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 15
+        width: 19
+        height: 14
+      spriteId: c4c9d742e96744881b70cd1767a917b9
+    - name: Gaston_All_Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 15
+        width: 19
+        height: 13
+      spriteId: 08e3877c4a78b4e85b9132e1844d66b6
+    - name: Gaston_All_Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 15
+        width: 19
+        height: 12
+      spriteId: 2b30dd165496c434dbdb2ca17ae6303c
+    - name: Gaston_All_Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 14
+        width: 20
+        height: 13
+      spriteId: 616f4457d30524d8db08cbd70cfd5667
+    - name: Gaston_All_Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 14
+        width: 20
+        height: 12
+      spriteId: 19e22c233261e4e1c832cf5f43da04d1
+    - name: Gaston_All_Frame_135
+      frameIndex: 135
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 14
+        width: 21
+        height: 12
+      spriteId: a59353c3bcf3d4639a65c83a38beb83d
+    - name: Gaston_All_Frame_136
+      frameIndex: 136
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 14
+        width: 21
+        height: 12
+      spriteId: 1fd2f1dd946f04d59b2031f09b017d3d
+    - name: Gaston_All_Frame_137
+      frameIndex: 137
+      additiveSortOrder: 0
+      cellRect:
+        x: 31
+        y: 14
+        width: 21
+        height: 12
+      spriteId: ed93bb9de59174ffd9a77a644d152d71
+    - name: Gaston_All_Frame_138
+      frameIndex: 138
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 18
+        height: 16
+      spriteId: 906817ca8257e404b93c788ca50bba10
+    - name: Gaston_All_Frame_139
+      frameIndex: 139
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 23
+        width: 19
+        height: 15
+      spriteId: 0a19c191fd5124b74b7d90e90b65edc0
+    - name: Gaston_All_Frame_140
+      frameIndex: 140
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 23
+        width: 16
+        height: 16
+      spriteId: 0b2ecf71c79c44800936f40e2e7c4917
+    - name: Gaston_All_Frame_141
+      frameIndex: 141
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 23
+        width: 12
+        height: 16
+      spriteId: 7c6e35f26a8fa49b19675219e50ae9ac
+    - name: Gaston_All_Frame_142
+      frameIndex: 142
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 23
+        width: 14
+        height: 16
+      spriteId: 750fd665188024753aad065b7ebca27e
+    - name: Gaston_All_Frame_143
+      frameIndex: 143
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 23
+        width: 13
+        height: 15
+      spriteId: 75919e76932a34a09b8b5d88c1f89965
+    - name: Gaston_All_Frame_144
+      frameIndex: 144
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 12
+        height: 17
+      spriteId: 955582c37d6e240d497eb0436b9f4b42
+    - name: Gaston_All_Frame_145
+      frameIndex: 145
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 11
+        height: 18
+      spriteId: bcc177f3cb5364123bf7aa9fad69aaa0
+    - name: Gaston_All_Frame_146
+      frameIndex: 146
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 21
+        width: 14
+        height: 16
+      spriteId: 4cc58c67ea7514c249923d2547438a3e
+    - name: Gaston_All_Frame_147
+      frameIndex: 147
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 19
+        width: 36
+        height: 31
+      spriteId: 3a457ff2e5bdf43079ea439f3025b060
+    - name: Gaston_All_Frame_148
+      frameIndex: 148
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 22
+        width: 30
+        height: 22
+      spriteId: e46775155c1de434db547cd34d5bc836
+    - name: Gaston_All_Frame_149
+      frameIndex: 149
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 18
+        height: 18
+      spriteId: 9089d747d47b34df780853e1ee152582
+    - name: Gaston_All_Frame_150
+      frameIndex: 150
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 22
+        width: 13
+        height: 13
+      spriteId: d996c8de83deb4c618453f040396aae8
+    - name: Gaston_All_Frame_151
+      frameIndex: 151
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 22
+        width: 13
+        height: 12
+      spriteId: 382f02120b15343cf9ccdffdb28d246d
+    - name: Gaston_All_Frame_152
+      frameIndex: 152
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 22
+        width: 13
+        height: 12
+      spriteId: 513d6876da64c44c4a9a92700ae7d5ce
+    - name: Gaston_All_Frame_153
+      frameIndex: 153
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 22
+        width: 12
+        height: 12
+      spriteId: e7c699eee91194aeebe559d54b9e1683
+    - name: Gaston_All_Frame_154
+      frameIndex: 154
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 23
+        width: 14
+        height: 18
+      spriteId: 00c239cd7c43c440fa1552021cd9c060
+    - name: Gaston_All_Frame_155
+      frameIndex: 155
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 13
+        width: 39
+        height: 34
+      spriteId: 718c1a8bd563b4f7dac440de2024a0be
+    - name: Gaston_All_Frame_156
+      frameIndex: 156
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 16
+        width: 28
+        height: 23
+      spriteId: a2583d54a0f51448ab2de8a8c7dfa5ca
+    - name: Gaston_All_Frame_157
+      frameIndex: 157
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 18
+        width: 18
+        height: 22
+      spriteId: c4765c209fc9b4212bf5c13a27797892
+    - name: Gaston_All_Frame_158
+      frameIndex: 158
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 15
+        height: 17
+      spriteId: 78f62426142f74d3ba74b75a0d5da58a
+    - name: Gaston_All_Frame_159
+      frameIndex: 159
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 14
+        height: 15
+      spriteId: c764174288c1c400bb33b5224643ecd1
+    - name: Gaston_All_Frame_160
+      frameIndex: 160
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 13
+        height: 15
+      spriteId: a9389f06143a848a195535007ebb3ceb
+    - name: Gaston_All_Frame_161
+      frameIndex: 161
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 19
+        height: 19
+      spriteId: b571d35b5b2d9427b929ab1d4d106e0f
+    - name: Gaston_All_Frame_162
+      frameIndex: 162
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 23
+        width: 19
+        height: 19
+      spriteId: cac9776f209e94e37b6309f3397728e2
+    - name: Gaston_All_Frame_163
+      frameIndex: 163
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 14
+        width: 32
+        height: 32
+      spriteId: e42ece8d382034c7caa105fd87d050b7
+    - name: Gaston_All_Frame_164
+      frameIndex: 164
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 15
+        width: 32
+        height: 27
+      spriteId: 0603ce9bc0b0d49228dccfad64bdc4df
+    - name: Gaston_All_Frame_165
+      frameIndex: 165
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 19
+        width: 29
+        height: 18
+      spriteId: c834b31d69c3c4ff5b1058c5f02baa6d
+    - name: Gaston_All_Frame_166
+      frameIndex: 166
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 9
+        height: 17
+      spriteId: 6417b0e06299543b2ab0553b5547e13a
+    - name: Gaston_All_Frame_167
+      frameIndex: 167
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 11
+        height: 18
+      spriteId: 0b4c65dd2e7c54f529efa3f8996aaf7c
+    - name: Gaston_All_Frame_168
+      frameIndex: 168
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 13
+        height: 19
+      spriteId: 3d3932970ad2a4eb496cf5e33954c51e
+    - name: Gaston_All_Frame_169
+      frameIndex: 169
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 22
+        width: 9
+        height: 20
+      spriteId: a7d53ad8499d349f0b8858ffeeee7087
+    - name: Gaston_All_Frame_170
+      frameIndex: 170
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 9
+        height: 21
+      spriteId: a30d3e9fbc59c4d78b88e0b94d77c737
+    - name: Gaston_All_Frame_171
+      frameIndex: 171
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 23
+        width: 10
+        height: 20
+      spriteId: c228758b9f5a34d309b1fc8d8dacdca9
+    - name: Gaston_All_Frame_172
+      frameIndex: 172
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 23
+        width: 10
+        height: 20
+      spriteId: 709a1ae82bd694377860bf03a5b54ae9
+    - name: Gaston_All_Frame_173
+      frameIndex: 173
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 24
+        width: 13
+        height: 20
+      spriteId: 5f134fe3177de4e4e87efa4db9bb2e19
+    - name: Gaston_All_Frame_174
+      frameIndex: 174
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 25
+        width: 13
+        height: 19
+      spriteId: 9be776fbaf5a541b89d4c14f2ea7d57d
+    - name: Gaston_All_Frame_175
+      frameIndex: 175
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 12
+        height: 21
+      spriteId: f1825d0a0e1484892b875b483e8de667
+    - name: Gaston_All_Frame_176
+      frameIndex: 176
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 9
+        height: 21
+      spriteId: da9f58bdd6b9741bda0dda26848f9f37
+    - name: Gaston_All_Frame_177
+      frameIndex: 177
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 10
+        height: 21
+      spriteId: c717e61a1d7df4798bbf57f9012062e0
+    - name: Gaston_All_Frame_178
+      frameIndex: 178
+      additiveSortOrder: 0
+      cellRect:
+        x: 27
+        y: 22
+        width: 10
+        height: 21
+      spriteId: ef0f96876378f415596cebdcd9c33143
+    - name: Gaston_All_Frame_179
+      frameIndex: 179
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 24
+        width: 13
+        height: 20
+      spriteId: d455e2ca8ae884a9ab1ec406f477a293
+    - name: Gaston_All_Frame_180
+      frameIndex: 180
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 25
+        width: 12
+        height: 19
+      spriteId: 468ac0fd981104432b9b32a6e4758eca
+    - name: Gaston_All_Frame_181
+      frameIndex: 181
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 23
+        width: 12
+        height: 20
+      spriteId: cef2547039f374045a4257339f50bc2f
+    - name: Gaston_All_Frame_182
+      frameIndex: 182
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 9
+        height: 21
+      spriteId: 803da02b23d9d4456ab060d559f2bbec
+    - name: Gaston_All_Frame_183
+      frameIndex: 183
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 20
+        height: 24
+      spriteId: a1a0fefaf14be42e2b11ce3aac8bc6db
+    - name: Gaston_All_Frame_184
+      frameIndex: 184
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 21
+        height: 24
+      spriteId: 21e646f41b06d4ff59846446147da530
+    - name: Gaston_All_Frame_185
+      frameIndex: 185
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 22
+        width: 22
+        height: 24
+      spriteId: d42c8d20a94d04ddeb9b319ad61c6aab
+    - name: Gaston_All_Frame_186
+      frameIndex: 186
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 22
+        width: 23
+        height: 24
+      spriteId: 050af15b983bf40d0b3e8556174d33fa
+    - name: Gaston_All_Frame_187
+      frameIndex: 187
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 22
+        width: 24
+        height: 24
+      spriteId: 68510a147ddeb4eb2b8bebd0f73b460e
+    - name: Gaston_All_Frame_188
+      frameIndex: 188
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 22
+        width: 27
+        height: 27
+      spriteId: 8ee406f66c63640dfba65ce3eaad42c5
+    - name: Gaston_All_Frame_189
+      frameIndex: 189
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 21
+        width: 28
+        height: 28
+      spriteId: 45a8789b2fa644ed28a554774363eb24
+    - name: Gaston_All_Frame_190
+      frameIndex: 190
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 19
+        width: 33
+        height: 31
+      spriteId: 30d786534793a441e9712c85b5f0073b
+    - name: Gaston_All_Frame_191
+      frameIndex: 191
+      additiveSortOrder: 0
+      cellRect:
+        x: 8
+        y: 20
+        width: 36
+        height: 30
+      spriteId: 7937373dd430e44febe18574762e3105
+    - name: Gaston_All_Frame_192
+      frameIndex: 192
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 18
+        width: 30
+        height: 30
+      spriteId: f4706f0a6c5ad416994984b1a621fd12
+    - name: Gaston_All_Frame_193
+      frameIndex: 193
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 22
+        width: 13
+        height: 16
+      spriteId: add2cfc27ee3f4931810b80be7415082
+    - name: Gaston_All_Frame_194
+      frameIndex: 194
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 20
+        height: 24
+      spriteId: c0893def76b0642f989615d65ac20cea
+    - name: Gaston_All_Frame_195
+      frameIndex: 195
+      additiveSortOrder: 0
+      cellRect:
+        x: 20
+        y: 22
+        width: 21
+        height: 24
+      spriteId: 3b0ba43dc298c4ea584739ec456a8405
+    - name: Gaston_All_Frame_196
+      frameIndex: 196
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 22
+        width: 22
+        height: 24
+      spriteId: 31dd620324318495cb8c3fe4a5eaf4af
+    - name: Gaston_All_Frame_197
+      frameIndex: 197
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 22
+        width: 23
+        height: 24
+      spriteId: 85727781832a94258801ff13582a1052
+    - name: Gaston_All_Frame_198
+      frameIndex: 198
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 22
+        width: 24
+        height: 24
+      spriteId: e1ccf632d07974284a1436ef24a62c53
+    - name: Gaston_All_Frame_199
+      frameIndex: 199
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 22
+        width: 27
+        height: 27
+      spriteId: 0ef35288de49049909987697998f7aba
+    - name: Gaston_All_Frame_200
+      frameIndex: 200
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 21
+        width: 28
+        height: 28
+      spriteId: 26c46ea6529174153b363e9674e59e21
+    - name: Gaston_All_Frame_201
+      frameIndex: 201
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 19
+        width: 33
+        height: 31
+      spriteId: 4c93cf96b1494406296b2198e3cfa64c
+    - name: Gaston_All_Frame_202
+      frameIndex: 202
+      additiveSortOrder: 0
+      cellRect:
+        x: 8
+        y: 20
+        width: 36
+        height: 30
+      spriteId: 58e7b9f4a0a06468c8fa748a9148fdde
+    - name: Gaston_All_Frame_203
+      frameIndex: 203
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 18
+        width: 33
+        height: 30
+      spriteId: 74003210b2d9b4edfa8bf171c5a7f52a
+    - name: Gaston_All_Frame_204
+      frameIndex: 204
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 21
+        width: 14
+        height: 15
+      spriteId: 6c2c9faace71b43b19f823f7a650d658
+    - name: Gaston_All_Frame_205
+      frameIndex: 205
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 20
+        width: 19
+        height: 11
+      spriteId: 5fe6d954e0bb545c6bd9bccc915be15a
+    - name: Gaston_All_Frame_206
+      frameIndex: 206
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 16
+        width: 20
+        height: 13
+      spriteId: adb097be504b74f0583eb87d005c44fd
+    - name: Gaston_All_Frame_207
+      frameIndex: 207
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 17
+        width: 20
+        height: 12
+      spriteId: f973d83bb7e2047bab3a703f48e74ccf
+    - name: Gaston_All_Frame_208
+      frameIndex: 208
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 16
+        width: 19
+        height: 13
+      spriteId: 0f045282f66884cd09d27ca5cdd49edf
+    - name: Gaston_All_Frame_209
+      frameIndex: 209
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 15
+        width: 20
+        height: 14
+      spriteId: 729066c6a48074adcb32c67d203ae180
+    - name: Gaston_All_Frame_210
+      frameIndex: 210
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 15
+        width: 19
+        height: 14
+      spriteId: f10ee412c01ee4555a7ff866e3082dec
+    - name: Gaston_All_Frame_211
+      frameIndex: 211
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 15
+        width: 19
+        height: 13
+      spriteId: 870fcadf8d7344b1c90fceb7ba1cffd4
+    - name: Gaston_All_Frame_212
+      frameIndex: 212
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 15
+        width: 19
+        height: 12
+      spriteId: 9fea69d6366a24215a1a3be733174896
+    - name: Gaston_All_Frame_213
+      frameIndex: 213
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 14
+        width: 20
+        height: 13
+      spriteId: 38fc71e0078aa47b3bb0808e7067203f
+    - name: Gaston_All_Frame_214
+      frameIndex: 214
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 14
+        width: 20
+        height: 12
+      spriteId: 997fb342cc48b44b2be60c67316ab59e
+    - name: Gaston_All_Frame_215
+      frameIndex: 215
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 14
+        width: 21
+        height: 12
+      spriteId: d2a9181b48b494f469e45f61abca9762
+    - name: Gaston_All_Frame_216
+      frameIndex: 216
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 14
+        width: 21
+        height: 12
+      spriteId: 2bd8731ea253b478fb1f079492188918
+    - name: Gaston_All_Frame_217
+      frameIndex: 217
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 14
+        width: 21
+        height: 12
+      spriteId: d0ac932b56be44fb3910408323e06201
+    - name: Gaston_All_Frame_218
+      frameIndex: 218
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 22
+        width: 18
+        height: 15
+      spriteId: 459c87ada0a3449ff8f0afd09a9c6ad8
+    - name: Gaston_All_Frame_219
+      frameIndex: 219
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 22
+        width: 19
+        height: 16
+      spriteId: 969e9e9c56f3d480eadde4eec215ac7b
+    - name: Gaston_All_Frame_220
+      frameIndex: 220
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 16
+        height: 16
+      spriteId: aaeca92b79b2b4d588b68732732b3858
+    - name: Gaston_All_Frame_221
+      frameIndex: 221
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 22
+        width: 13
+        height: 16
+      spriteId: 5b75f3e4cd1fc4c369ea7de03f41fa9c
+    - name: Gaston_All_Frame_222
+      frameIndex: 222
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 14
+        height: 16
+      spriteId: d01953dd92afc4491bece9bcac03dd21
+    - name: Gaston_All_Frame_223
+      frameIndex: 223
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 14
+        height: 15
+      spriteId: a2671793aac3d47f4ae2f5d1506efb15
+    - name: Gaston_All_Frame_224
+      frameIndex: 224
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 12
+        height: 16
+      spriteId: e3de541602a4f4b998c45921831b7f1d
+    - name: Gaston_All_Frame_225
+      frameIndex: 225
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 22
+        width: 11
+        height: 17
+      spriteId: 6308190e090ca4f8a8fa2c0e24f0dadb
+    - name: Gaston_All_Frame_226
+      frameIndex: 226
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 21
+        width: 14
+        height: 16
+      spriteId: ab037f550abea4d6f95ae4092e5d5e41
+    - name: Gaston_All_Frame_227
+      frameIndex: 227
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 19
+        width: 36
+        height: 31
+      spriteId: c9e930ccecc3944f1a69dd2dc570b4aa
+    - name: Gaston_All_Frame_228
+      frameIndex: 228
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 22
+        width: 30
+        height: 22
+      spriteId: ced77ed1b9c8a4253b6a703fc66cf9d2
+    - name: Gaston_All_Frame_229
+      frameIndex: 229
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 22
+        width: 18
+        height: 18
+      spriteId: 264c999c367ae43748768ff30e4a1162
+    - name: Gaston_All_Frame_230
+      frameIndex: 230
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 13
+        height: 13
+      spriteId: 77ff817a79d764f2aadfc9ce33a760bb
+    - name: Gaston_All_Frame_231
+      frameIndex: 231
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 13
+        height: 12
+      spriteId: bdbcfb3c1b22e449f8b86e6c41e36913
+    - name: Gaston_All_Frame_232
+      frameIndex: 232
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 13
+        height: 12
+      spriteId: 7192afa9f10af4fd0a05a8af2a65489c
+    - name: Gaston_All_Frame_233
+      frameIndex: 233
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 12
+        height: 12
+      spriteId: ff1360e86e78d4b10b32b3f1394eec7a
+    - name: Gaston_All_Frame_234
+      frameIndex: 234
+      additiveSortOrder: 0
+      cellRect:
+        x: 24
+        y: 23
+        width: 14
+        height: 18
+      spriteId: 5caaf185b994840a4b6e78bb9a571bcf
+    - name: Gaston_All_Frame_235
+      frameIndex: 235
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 13
+        width: 39
+        height: 34
+      spriteId: 49d09be216f5b41c5ad307d72954edbc
+    - name: Gaston_All_Frame_236
+      frameIndex: 236
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 16
+        width: 28
+        height: 23
+      spriteId: f64876543a0d44e4193fc6cc0691dd86
+    - name: Gaston_All_Frame_237
+      frameIndex: 237
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 18
+        width: 18
+        height: 22
+      spriteId: c0bbc390739974fb7a6e5c1353316941
+    - name: Gaston_All_Frame_238
+      frameIndex: 238
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 15
+        height: 17
+      spriteId: 39c84ce164b0448f7878831000e0028a
+    - name: Gaston_All_Frame_239
+      frameIndex: 239
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 14
+        height: 15
+      spriteId: 100ab147a0b25442b90dc7d8ee5121e5
+    - name: Gaston_All_Frame_240
+      frameIndex: 240
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 22
+        width: 13
+        height: 15
+      spriteId: 12c03ba53567d49bd84ec1fd89cb8ee0
+    - name: Gaston_All_Frame_241
+      frameIndex: 241
+      additiveSortOrder: 0
+      cellRect:
+        x: 22
+        y: 22
+        width: 19
+        height: 19
+      spriteId: 8e700d0c061b74400828987aaaebc6d2
+    - name: Gaston_All_Frame_242
+      frameIndex: 242
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 23
+        width: 19
+        height: 19
+      spriteId: c957ae9a6875a4950900e763f184a4ca
+    - name: Gaston_All_Frame_243
+      frameIndex: 243
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 14
+        width: 32
+        height: 32
+      spriteId: a1ded8a448aeb4a6e8327efee7700ca7
+    - name: Gaston_All_Frame_244
+      frameIndex: 244
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 15
+        width: 32
+        height: 27
+      spriteId: 92f4d2a215c8e4f1b9fad3a5005a4028
+    - name: Gaston_All_Frame_245
+      frameIndex: 245
+      additiveSortOrder: 0
+      cellRect:
+        x: 6
+        y: 19
+        width: 29
+        height: 18
+      spriteId: 8b1840d014c324fdfa30f0dbe43a6ca6
+    - name: Gaston_All_Frame_246
+      frameIndex: 246
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 9
+        height: 17
+      spriteId: dbad60e1edb984ae48265d08a3a3503d
+    - name: Gaston_All_Frame_247
+      frameIndex: 247
+      additiveSortOrder: 0
+      cellRect:
+        x: 25
+        y: 22
+        width: 11
+        height: 18
+      spriteId: 4a8a92172c3b44d2e831f69145359a13
+    - name: Gaston_All_Frame_248
+      frameIndex: 248
+      additiveSortOrder: 0
+      cellRect:
+        x: 23
+        y: 22
+        width: 13
+        height: 19
+      spriteId: bdaf79011da4444aebbcfcf8adf86494
+    - name: Gaston_All_Frame_249
+      frameIndex: 249
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 22
+        width: 9
+        height: 20
+      spriteId: 4dda4e3b094c448afad9bcbe5bbcf33f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 63, y: 59}

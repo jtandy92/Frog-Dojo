@@ -1,0 +1,3150 @@
+fileFormatVersion: 2
+guid: 082600b63e77a42f8b09880cfa8fe99d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638633713396634770
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Drog_Full_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 14
+      height: 20
+    spriteID: 8ee2a1dd44d2343f9bba0f79f5755499
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: Drog_Full_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5277778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 4
+      width: 14
+      height: 18
+    spriteID: 8a724a8ff23e3496a94805584bdb1b41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 4}
+  - name: Drog_Full_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 48
+      width: 14
+      height: 16
+    spriteID: be49aa5b7f26d43fd8f801767111742c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 48}
+  - name: Drog_Full_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 224
+      width: 14
+      height: 19
+    spriteID: 1276fbb5908764eda923f6693804b32e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 224}
+  - name: Drog_Full_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5277778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 30
+      width: 14
+      height: 18
+    spriteID: f6018ceeca3e141d1bd487e62bc5f306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 30}
+  - name: Drog_Full_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 72
+      width: 14
+      height: 16
+    spriteID: 838bb6b14ca784b84b43207aa4cd71f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 72}
+  - name: Drog_Full_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 251
+      width: 14
+      height: 19
+    spriteID: c9ab0237c162b48bd8e7a60a47aaf189
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 251}
+  - name: Drog_Full_Frame_7
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 467
+      width: 13
+      height: 20
+    spriteID: 2de97e88941c2408ba3d860335278858
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 467}
+  - name: Drog_Full_Frame_8
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 108
+      width: 13
+      height: 19
+    spriteID: 49622fa1a0b334592ac5338ac6223c64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 108}
+  - name: Drog_Full_Frame_9
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 166
+      width: 13
+      height: 17
+    spriteID: 34687fc9be25246ff82ad5f73b3ecf91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 166}
+  - name: Drog_Full_Frame_10
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 135
+      width: 13
+      height: 19
+    spriteID: a89b0b5d6eddb4618bd5af8ae8d01a55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 135}
+  - name: Drog_Full_Frame_11
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 4
+      width: 13
+      height: 20
+    spriteID: dfa36543534fe4f9c9bc0994b3b4cc58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 4}
+  - name: Drog_Full_Frame_12
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 324
+      width: 13
+      height: 18
+    spriteID: f29acad0e5bec469784a9767df92bf20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 324}
+  - name: Drog_Full_Frame_13
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.5277778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 350
+      width: 13
+      height: 18
+    spriteID: ecdac53f2b78b4084a16b475deb19f6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 350}
+  - name: Drog_Full_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 146
+      width: 14
+      height: 20
+    spriteID: 110b25eb4cfa74f2e8f30685f84e9ad2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 146}
+  - name: Drog_Full_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5277778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 56
+      width: 14
+      height: 18
+    spriteID: 9493e7d81e8ed4d198fa61f511117c1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 56}
+  - name: Drog_Full_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 96
+      width: 14
+      height: 16
+    spriteID: 19b7cb09b3c2f4d7bbf9cfe2c52fae6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 96}
+  - name: Drog_Full_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 278
+      width: 14
+      height: 19
+    spriteID: 6bdac967e14c0427d91a3a1fe85358bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 278}
+  - name: Drog_Full_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5277778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 82
+      width: 14
+      height: 18
+    spriteID: fa044d0686d97467aa9a7a6b1032bc50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 82}
+  - name: Drog_Full_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 120
+      width: 14
+      height: 16
+    spriteID: 88116ccc2110b4b84a424ceab2b6de53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 120}
+  - name: Drog_Full_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 305
+      width: 14
+      height: 19
+    spriteID: 853698803b8e94d88a038847adea0dd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 305}
+  - name: Drog_Full_Frame_21
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 32
+      width: 13
+      height: 20
+    spriteID: 9d3b29326c7b74997a24b54ecbf3fdc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 32}
+  - name: Drog_Full_Frame_22
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 162
+      width: 13
+      height: 19
+    spriteID: fb8b02ad0489c42b4b661eb02c8d90d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 162}
+  - name: Drog_Full_Frame_23
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.44117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 191
+      width: 13
+      height: 17
+    spriteID: 52452933c0fbe4be188d3062e4cca4d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 191}
+  - name: Drog_Full_Frame_24
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.55263156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 189
+      width: 13
+      height: 19
+    spriteID: 6e1c04a2729b74e6b8435a8abe2bd7f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 189}
+  - name: Drog_Full_Frame_25
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 60
+      width: 13
+      height: 20
+    spriteID: 6cc99d1b152cd4cecb57410d6fdd21b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 60}
+  - name: Drog_Full_Frame_26
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.4722222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 376
+      width: 13
+      height: 18
+    spriteID: 39a102096d9a048838770addbd8d2a82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 376}
+  - name: Drog_Full_Frame_27
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.5277778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 402
+      width: 13
+      height: 18
+    spriteID: bf6446de9116e4586922149f2a8cd7d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 402}
+  - name: Drog_Full_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 332
+      width: 14
+      height: 19
+    spriteID: b36223b3c421e4bf59da044e2832505d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 332}
+  - name: Drog_Full_Frame_29
+    originalName: 
+    pivot: {x: 0.4166667, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 366
+      width: 12
+      height: 17
+    spriteID: ae2a7f73bd5d34bc6bab3c8a2843c9b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 366}
+  - name: Drog_Full_Frame_30
+    originalName: 
+    pivot: {x: 0.4166667, y: 0.7666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 93
+      width: 12
+      height: 15
+    spriteID: 40d55046ebfb64b858da14f16ebd59e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 93}
+  - name: Drog_Full_Frame_31
+    originalName: 
+    pivot: {x: 0.4166667, y: 0.82142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 158
+      width: 12
+      height: 14
+    spriteID: 4e703d735a212442baeb01df7b9dce9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 158}
+  - name: Drog_Full_Frame_32
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.88461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 246
+      width: 12
+      height: 13
+    spriteID: df399fd9fe7794a93bd0e213405d7349
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 246}
+  - name: Drog_Full_Frame_33
+    originalName: 
+    pivot: {x: 0.4166667, y: 0.88461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 267
+      width: 12
+      height: 13
+    spriteID: 935a026f71feb49c4b4ade8d0bedc9b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 267}
+  - name: Drog_Full_Frame_34
+    originalName: 
+    pivot: {x: 0.4166667, y: 0.88461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 288
+      width: 12
+      height: 13
+    spriteID: e70231fa806da4985a3c4c36f0114929
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 288}
+  - name: Drog_Full_Frame_35
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.82142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 180
+      width: 12
+      height: 14
+    spriteID: cc779c665bfb04453a8987b530c1237a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 180}
+  - name: Drog_Full_Frame_36
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 216
+      width: 13
+      height: 17
+    spriteID: 41895f934d333441d893a4fd652fb0b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 216}
+  - name: Drog_Full_Frame_37
+    originalName: 
+    pivot: {x: 0.6875, y: 0.20588237}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 16
+      height: 17
+    spriteID: 7c56d8b8e390148bea1206a9581fb7db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: Drog_Full_Frame_38
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.04166664}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 495
+      width: 18
+      height: 12
+    spriteID: 4657fbcad7b2d4b60817fd13181d1395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 495}
+  - name: Drog_Full_Frame_39
+    originalName: 
+    pivot: {x: 0.6666667, y: 0.30555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 18
+      height: 18
+    spriteID: 4c99391a4e9a64f44b680acc80c284dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 66}
+  - name: Drog_Full_Frame_40
+    originalName: 
+    pivot: {x: 0.59090906, y: 0.54347825}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 22
+      height: 23
+    spriteID: eb8b99b86f98d4ec69aa031184c5c417
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Drog_Full_Frame_41
+    originalName: 
+    pivot: {x: 0.30769232, y: 0.89285713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 49
+      width: 13
+      height: 14
+    spriteID: ff953404ce0b7440a8a55cf09612a0eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 49}
+  - name: Drog_Full_Frame_42
+    originalName: 
+    pivot: {x: 0.3846154, y: 0.7666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 234
+      width: 13
+      height: 15
+    spriteID: d42f22f9a821f4acabab38fb4ad1ef1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 234}
+  - name: Drog_Full_Frame_43
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.63888884}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 428
+      width: 13
+      height: 18
+    spriteID: d2e0154336a2d40c8a0f43c781e623b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 428}
+  - name: Drog_Full_Frame_44
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 216
+      width: 13
+      height: 19
+    spriteID: 5bab4a89f5e4d4330b8b9fde01c2914c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 216}
+  - name: Drog_Full_Frame_45
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 243
+      width: 13
+      height: 19
+    spriteID: 844ab119f6d934768b699e919f97e2d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 243}
+  - name: Drog_Full_Frame_46
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.63888884}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 454
+      width: 13
+      height: 18
+    spriteID: 90226a5f74a7a45ee81992d40caa4e79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 454}
+  - name: Drog_Full_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 359
+      width: 14
+      height: 19
+    spriteID: 92209687a826a4563a0b1f81e39ef3ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 359}
+  - name: Drog_Full_Frame_48
+    originalName: 
+    pivot: {x: 0.7857143, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 386
+      width: 14
+      height: 19
+    spriteID: a2bcb9b8ec7674ad5bdaf42f5e70a83b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 386}
+  - name: Drog_Full_Frame_49
+    originalName: 
+    pivot: {x: 0.7857143, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 413
+      width: 14
+      height: 19
+    spriteID: 3d2261b00e0ef4c4ca34730b313ba3e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 413}
+  - name: Drog_Full_Frame_50
+    originalName: 
+    pivot: {x: 0.9166667, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 391
+      width: 12
+      height: 17
+    spriteID: e282511f6a40a4e8880c8f6fe97947ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 391}
+  - name: Drog_Full_Frame_51
+    originalName: 
+    pivot: {x: 0.9166667, y: 0.7666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 116
+      width: 12
+      height: 15
+    spriteID: 85bdab7c04f8945d180d322ba14d8b2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 116}
+  - name: Drog_Full_Frame_52
+    originalName: 
+    pivot: {x: 0.9166667, y: 0.82142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 202
+      width: 12
+      height: 14
+    spriteID: 8d1b89708f28c41da8249b45249df8e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 202}
+  - name: Drog_Full_Frame_53
+    originalName: 
+    pivot: {x: 0.8333334, y: 0.88461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 309
+      width: 12
+      height: 13
+    spriteID: 13f4f3769f5394c3694908256e28fe90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 309}
+  - name: Drog_Full_Frame_54
+    originalName: 
+    pivot: {x: 0.9166667, y: 0.88461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 330
+      width: 12
+      height: 13
+    spriteID: e63a176c5410c426494a25f4c1a2d730
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 330}
+  - name: Drog_Full_Frame_55
+    originalName: 
+    pivot: {x: 0.9166667, y: 0.88461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 351
+      width: 12
+      height: 13
+    spriteID: a18c00ada7c0345b692ee862ca8a5d99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 351}
+  - name: Drog_Full_Frame_56
+    originalName: 
+    pivot: {x: 0.8333334, y: 0.82142854}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 224
+      width: 12
+      height: 14
+    spriteID: d907019df38c8415d8e2effb9f379b78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 224}
+  - name: Drog_Full_Frame_57
+    originalName: 
+    pivot: {x: 0.6923077, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 241
+      width: 13
+      height: 17
+    spriteID: 453d7fc84650440f88e45ba013b41608
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 241}
+  - name: Drog_Full_Frame_58
+    originalName: 
+    pivot: {x: 0.56250006, y: 0.20588237}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 199
+      width: 16
+      height: 17
+    spriteID: ce379685debb74d87bf7234a8076634b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 199}
+  - name: Drog_Full_Frame_59
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.04166664}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 4
+      width: 18
+      height: 12
+    spriteID: 4f481f370e5624447b2e253bca282591
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 4}
+  - name: Drog_Full_Frame_60
+    originalName: 
+    pivot: {x: 0.5555556, y: 0.30555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 18
+      height: 18
+    spriteID: c525341e2980e492a942372e689ced06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: Drog_Full_Frame_61
+    originalName: 
+    pivot: {x: 0.59090906, y: 0.54347825}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 35
+      width: 22
+      height: 23
+    spriteID: 6b29fd95b2d7642ea9722b223f5f2dcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 35}
+  - name: Drog_Full_Frame_62
+    originalName: 
+    pivot: {x: 0.99999994, y: 0.89285713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 71
+      width: 13
+      height: 14
+    spriteID: 05b5dff1c88b44c95bb49bbf60197eac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 71}
+  - name: Drog_Full_Frame_63
+    originalName: 
+    pivot: {x: 0.92307687, y: 0.7666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 257
+      width: 13
+      height: 15
+    spriteID: 0784d514210e046e1bec522b2b9f10ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 257}
+  - name: Drog_Full_Frame_64
+    originalName: 
+    pivot: {x: 0.84615386, y: 0.63888884}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 480
+      width: 13
+      height: 18
+    spriteID: 230de5f027ed94b28a847af8fbd82a8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 480}
+  - name: Drog_Full_Frame_65
+    originalName: 
+    pivot: {x: 0.84615386, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 270
+      width: 13
+      height: 19
+    spriteID: f14257f41af6243b1904279a0a81a6f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 270}
+  - name: Drog_Full_Frame_66
+    originalName: 
+    pivot: {x: 0.84615386, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 297
+      width: 13
+      height: 19
+    spriteID: d206a868c92fb4ae6afab6d98a75f9d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 297}
+  - name: Drog_Full_Frame_67
+    originalName: 
+    pivot: {x: 0.84615386, y: 0.63888884}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 88
+      width: 13
+      height: 18
+    spriteID: 7f55f0f783a474b99ac2555fdb6299a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 88}
+  - name: Drog_Full_Frame_68
+    originalName: 
+    pivot: {x: 0.7857143, y: 0.6052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 440
+      width: 14
+      height: 19
+    spriteID: 66d15b312874a449ba33835a7609f764
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 440}
+  - name: Drog_Full_Frame_69
+    originalName: 
+    pivot: {x: 0.3846154, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 266
+      width: 13
+      height: 17
+    spriteID: e25fbd5a8dbb645c19338896e7df4c44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 266}
+  - name: Drog_Full_Frame_70
+    originalName: 
+    pivot: {x: 0.45454544, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 320
+      width: 11
+      height: 17
+    spriteID: f463fa7dac5914052a2d8000adc3910a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 320}
+  - name: Drog_Full_Frame_71
+    originalName: 
+    pivot: {x: 0.4166667, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 416
+      width: 12
+      height: 17
+    spriteID: 4ee7996a614274ff686c3c83253e4084
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 416}
+  - name: Drog_Full_Frame_72
+    originalName: 
+    pivot: {x: 0.45454544, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 345
+      width: 11
+      height: 17
+    spriteID: 4936a4443e38848f586774ec143931b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 345}
+  - name: Drog_Full_Frame_73
+    originalName: 
+    pivot: {x: 0.45454544, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 370
+      width: 11
+      height: 17
+    spriteID: d34904e468fcd4b2c83660a06da79426
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 370}
+  - name: Drog_Full_Frame_74
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 441
+      width: 12
+      height: 17
+    spriteID: ffae4a1adc54a45c3b9c043f178ff5bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 441}
+  - name: Drog_Full_Frame_75
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.63888884}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 114
+      width: 13
+      height: 18
+    spriteID: 772e4f68a39ab4b1291a7bda407cde4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 114}
+  - name: Drog_Full_Frame_76
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 291
+      width: 13
+      height: 17
+    spriteID: 0182872c0752c4fc3b3bf627f7193427
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 291}
+  - name: Drog_Full_Frame_77
+    originalName: 
+    pivot: {x: 0.45454544, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 395
+      width: 11
+      height: 17
+    spriteID: 9e131ba19d31d422b992dc68e6a1ef79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 395}
+  - name: Drog_Full_Frame_78
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 466
+      width: 12
+      height: 17
+    spriteID: 1594d1c536c10451a9baf4977697d8b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 466}
+  - name: Drog_Full_Frame_79
+    originalName: 
+    pivot: {x: 0.76470584, y: 0.60714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 4
+      width: 17
+      height: 14
+    spriteID: 96731543bdd674bfeb96987f489da75d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 4}
+  - name: Drog_Full_Frame_80
+    originalName: 
+    pivot: {x: 0.8823529, y: 0.4583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 144
+      width: 17
+      height: 12
+    spriteID: e2485647a79784f77a4c5ee346190adf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 144}
+  - name: Drog_Full_Frame_81
+    originalName: 
+    pivot: {x: 1.1875, y: 0.77272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 495
+      width: 16
+      height: 11
+    spriteID: 4b7bba85a6ac94ea7b34b8d7d2d5f810
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 495}
+  - name: Drog_Full_Frame_82
+    originalName: 
+    pivot: {x: 1.3125, y: 1.0416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 280
+      width: 16
+      height: 12
+    spriteID: 70c821c73f3a2498688b5be10228ffdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 280}
+  - name: Drog_Full_Frame_83
+    originalName: 
+    pivot: {x: 1.2941177, y: 1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 372
+      width: 17
+      height: 9
+    spriteID: 577352bb224fb473192fad3ad488a291
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 372}
+  - name: Drog_Full_Frame_84
+    originalName: 
+    pivot: {x: 1.3529412, y: 1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 389
+      width: 17
+      height: 9
+    spriteID: dcdd1b401c7fc4a89b12f032ab1f6f11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 389}
+  - name: Drog_Full_Frame_85
+    originalName: 
+    pivot: {x: 1.3529412, y: 1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 406
+      width: 17
+      height: 9
+    spriteID: a6c23c4c7aa164d7e8f1979bfffeb3bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 406}
+  - name: Drog_Full_Frame_86
+    originalName: 
+    pivot: {x: 0.6153846, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 316
+      width: 13
+      height: 17
+    spriteID: 8c9bcb768f3024c79b22d197c6a0b262
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 316}
+  - name: Drog_Full_Frame_87
+    originalName: 
+    pivot: {x: 0.5454545, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 420
+      width: 11
+      height: 17
+    spriteID: 7b48919021a254e9db4681e2cd954f76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 420}
+  - name: Drog_Full_Frame_88
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 491
+      width: 12
+      height: 17
+    spriteID: 515b3722a64244c6e8c30d482cdaf5ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 491}
+  - name: Drog_Full_Frame_89
+    originalName: 
+    pivot: {x: 0.5454545, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 445
+      width: 11
+      height: 17
+    spriteID: 9d2ff72797f7e48f9ac54f6a24b89697
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 445}
+  - name: Drog_Full_Frame_90
+    originalName: 
+    pivot: {x: 0.5454545, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 470
+      width: 11
+      height: 17
+    spriteID: 1db777cf4855a4b2583c7059dc6f36c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 470}
+  - name: Drog_Full_Frame_91
+    originalName: 
+    pivot: {x: 0.49999997, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 164
+      width: 12
+      height: 17
+    spriteID: 0dc6ef7576a2a4458823613a8aa83b26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 164}
+  - name: Drog_Full_Frame_92
+    originalName: 
+    pivot: {x: 0.46153843, y: 0.63888884}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 140
+      width: 13
+      height: 18
+    spriteID: 49d05001a9b3845a2aec4fb606cb2762
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 140}
+  - name: Drog_Full_Frame_93
+    originalName: 
+    pivot: {x: 0.5384615, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 341
+      width: 13
+      height: 17
+    spriteID: 6ad7ebc73bcf849a0ac8400aa62f0162
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 341}
+  - name: Drog_Full_Frame_94
+    originalName: 
+    pivot: {x: 0.5454545, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 24
+      width: 11
+      height: 17
+    spriteID: f665e29548ba24b36a5a04eb71adccb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 24}
+  - name: Drog_Full_Frame_95
+    originalName: 
+    pivot: {x: 0.4166667, y: 0.6764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 189
+      width: 12
+      height: 17
+    spriteID: d9b024f7509f54025b8956ff710ba531
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 189}
+  - name: Drog_Full_Frame_96
+    originalName: 
+    pivot: {x: 0.23529413, y: 0.60714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 26
+      width: 17
+      height: 14
+    spriteID: 734aa66a8f09942d9b923528cdebb306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 26}
+  - name: Drog_Full_Frame_97
+    originalName: 
+    pivot: {x: 0.11764703, y: 0.4583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 214
+      width: 17
+      height: 12
+    spriteID: 947d3a38c98104d3daf77677cb18088d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 214}
+  - name: Drog_Full_Frame_98
+    originalName: 
+    pivot: {x: -0.18749996, y: 0.77272725}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 139
+      width: 16
+      height: 11
+    spriteID: 1a7b4123b3d6c4d0fa62df9d86f01f14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 139}
+  - name: Drog_Full_Frame_99
+    originalName: 
+    pivot: {x: -0.31249994, y: 1.0416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 300
+      width: 16
+      height: 12
+    spriteID: 2d8d922042a614d1ea66ef139cfb977b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 300}
+  - name: Drog_Full_Frame_100
+    originalName: 
+    pivot: {x: -0.29411757, y: 1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 423
+      width: 17
+      height: 9
+    spriteID: a5a0a909cb2cd4dabb3e09639b636fa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 423}
+  - name: Drog_Full_Frame_101
+    originalName: 
+    pivot: {x: -0.35294124, y: 1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 440
+      width: 17
+      height: 9
+    spriteID: e11181d5ea8ff45dea448e736053a708
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 440}
+  - name: Drog_Full_Frame_102
+    originalName: 
+    pivot: {x: -0.35294124, y: 1.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 457
+      width: 17
+      height: 9
+    spriteID: 7d36edcb19fa748a48d6da3ca1c51f1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 457}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 66722530
+    name: Drog_Full
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Drog_Full_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 14
+        height: 20
+      spriteId: 8ee2a1dd44d2343f9bba0f79f5755499
+    - name: Drog_Full_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 4
+        width: 14
+        height: 18
+      spriteId: 8a724a8ff23e3496a94805584bdb1b41
+    - name: Drog_Full_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 7
+        width: 14
+        height: 16
+      spriteId: be49aa5b7f26d43fd8f801767111742c
+    - name: Drog_Full_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 3
+        width: 14
+        height: 19
+      spriteId: 1276fbb5908764eda923f6693804b32e
+    - name: Drog_Full_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 4
+        width: 14
+        height: 18
+      spriteId: f6018ceeca3e141d1bd487e62bc5f306
+    - name: Drog_Full_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 7
+        width: 14
+        height: 16
+      spriteId: 838bb6b14ca784b84b43207aa4cd71f0
+    - name: Drog_Full_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 3
+        width: 14
+        height: 19
+      spriteId: c9ab0237c162b48bd8e7a60a47aaf189
+    - name: Drog_Full_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 20
+      spriteId: 2de97e88941c2408ba3d860335278858
+    - name: Drog_Full_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 3
+        width: 13
+        height: 19
+      spriteId: 49622fa1a0b334592ac5338ac6223c64
+    - name: Drog_Full_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 6
+        width: 13
+        height: 17
+      spriteId: 34687fc9be25246ff82ad5f73b3ecf91
+    - name: Drog_Full_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 3
+        width: 13
+        height: 19
+      spriteId: a89b0b5d6eddb4618bd5af8ae8d01a55
+    - name: Drog_Full_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 20
+      spriteId: dfa36543534fe4f9c9bc0994b3b4cc58
+    - name: Drog_Full_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 5
+        width: 13
+        height: 18
+      spriteId: f29acad0e5bec469784a9767df92bf20
+    - name: Drog_Full_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 4
+        width: 13
+        height: 18
+      spriteId: ecdac53f2b78b4084a16b475deb19f6f
+    - name: Drog_Full_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 14
+        height: 20
+      spriteId: 110b25eb4cfa74f2e8f30685f84e9ad2
+    - name: Drog_Full_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 4
+        width: 14
+        height: 18
+      spriteId: 9493e7d81e8ed4d198fa61f511117c1f
+    - name: Drog_Full_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 7
+        width: 14
+        height: 16
+      spriteId: 19b7cb09b3c2f4d7bbf9cfe2c52fae6c
+    - name: Drog_Full_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 3
+        width: 14
+        height: 19
+      spriteId: 6bdac967e14c0427d91a3a1fe85358bd
+    - name: Drog_Full_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 4
+        width: 14
+        height: 18
+      spriteId: fa044d0686d97467aa9a7a6b1032bc50
+    - name: Drog_Full_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 7
+        width: 14
+        height: 16
+      spriteId: 88116ccc2110b4b84a424ceab2b6de53
+    - name: Drog_Full_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 3
+        width: 14
+        height: 19
+      spriteId: 853698803b8e94d88a038847adea0dd4
+    - name: Drog_Full_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 13
+        height: 20
+      spriteId: 9d3b29326c7b74997a24b54ecbf3fdc9
+    - name: Drog_Full_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 3
+        width: 13
+        height: 19
+      spriteId: fb8b02ad0489c42b4b661eb02c8d90d8
+    - name: Drog_Full_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 6
+        width: 13
+        height: 17
+      spriteId: 52452933c0fbe4be188d3062e4cca4d6
+    - name: Drog_Full_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 3
+        width: 13
+        height: 19
+      spriteId: 6e1c04a2729b74e6b8435a8abe2bd7f3
+    - name: Drog_Full_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 13
+        height: 20
+      spriteId: 6cc99d1b152cd4cecb57410d6fdd21b7
+    - name: Drog_Full_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 5
+        width: 13
+        height: 18
+      spriteId: 39a102096d9a048838770addbd8d2a82
+    - name: Drog_Full_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 4
+        width: 13
+        height: 18
+      spriteId: bf6446de9116e4586922149f2a8cd7d9
+    - name: Drog_Full_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 14
+        height: 19
+      spriteId: b36223b3c421e4bf59da044e2832505d
+    - name: Drog_Full_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 12
+        height: 17
+      spriteId: ae2a7f73bd5d34bc6bab3c8a2843c9b0
+    - name: Drog_Full_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 12
+        height: 15
+      spriteId: 40d55046ebfb64b858da14f16ebd59e5
+    - name: Drog_Full_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 12
+        height: 14
+      spriteId: 4e703d735a212442baeb01df7b9dce9b
+    - name: Drog_Full_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 12
+        height: 13
+      spriteId: df399fd9fe7794a93bd0e213405d7349
+    - name: Drog_Full_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 12
+        height: 13
+      spriteId: 935a026f71feb49c4b4ade8d0bedc9b8
+    - name: Drog_Full_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 12
+        height: 13
+      spriteId: e70231fa806da4985a3c4c36f0114929
+    - name: Drog_Full_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 12
+        height: 14
+      spriteId: cc779c665bfb04453a8987b530c1237a
+    - name: Drog_Full_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 2
+        width: 13
+        height: 17
+      spriteId: 41895f934d333441d893a4fd652fb0b4
+    - name: Drog_Full_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 10
+        width: 16
+        height: 17
+      spriteId: 7c56d8b8e390148bea1206a9581fb7db
+    - name: Drog_Full_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 14
+        width: 18
+        height: 12
+      spriteId: 4657fbcad7b2d4b60817fd13181d1395
+    - name: Drog_Full_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 8
+        width: 18
+        height: 18
+      spriteId: 4c99391a4e9a64f44b680acc80c284dd
+    - name: Drog_Full_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 1
+        width: 22
+        height: 23
+      spriteId: eb8b99b86f98d4ec69aa031184c5c417
+    - name: Drog_Full_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 1
+        width: 13
+        height: 14
+      spriteId: ff953404ce0b7440a8a55cf09612a0eb
+    - name: Drog_Full_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 13
+        height: 15
+      spriteId: d42f22f9a821f4acabab38fb4ad1ef1f
+    - name: Drog_Full_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 18
+      spriteId: d2e0154336a2d40c8a0f43c781e623b0
+    - name: Drog_Full_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 19
+      spriteId: 5bab4a89f5e4d4330b8b9fde01c2914c
+    - name: Drog_Full_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 19
+      spriteId: 844ab119f6d934768b699e919f97e2d3
+    - name: Drog_Full_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 18
+      spriteId: 90226a5f74a7a45ee81992d40caa4e79
+    - name: Drog_Full_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 14
+        height: 19
+      spriteId: 92209687a826a4563a0b1f81e39ef3ea
+    - name: Drog_Full_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 14
+        height: 19
+      spriteId: a2bcb9b8ec7674ad5bdaf42f5e70a83b
+    - name: Drog_Full_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 14
+        height: 19
+      spriteId: 3d2261b00e0ef4c4ca34730b313ba3e5
+    - name: Drog_Full_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 12
+        height: 17
+      spriteId: e282511f6a40a4e8880c8f6fe97947ca
+    - name: Drog_Full_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 12
+        height: 15
+      spriteId: 85bdab7c04f8945d180d322ba14d8b2e
+    - name: Drog_Full_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 12
+        height: 14
+      spriteId: 8d1b89708f28c41da8249b45249df8e1
+    - name: Drog_Full_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 2
+        width: 12
+        height: 13
+      spriteId: 13f4f3769f5394c3694908256e28fe90
+    - name: Drog_Full_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 12
+        height: 13
+      spriteId: e63a176c5410c426494a25f4c1a2d730
+    - name: Drog_Full_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 12
+        height: 13
+      spriteId: a18c00ada7c0345b692ee862ca8a5d99
+    - name: Drog_Full_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 2
+        width: 12
+        height: 14
+      spriteId: d907019df38c8415d8e2effb9f379b78
+    - name: Drog_Full_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 2
+        width: 13
+        height: 17
+      spriteId: 453d7fc84650440f88e45ba013b41608
+    - name: Drog_Full_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 10
+        width: 16
+        height: 17
+      spriteId: ce379685debb74d87bf7234a8076634b
+    - name: Drog_Full_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 14
+        width: 18
+        height: 12
+      spriteId: 4f481f370e5624447b2e253bca282591
+    - name: Drog_Full_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 8
+        width: 18
+        height: 18
+      spriteId: c525341e2980e492a942372e689ced06
+    - name: Drog_Full_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 1
+        width: 22
+        height: 23
+      spriteId: 6b29fd95b2d7642ea9722b223f5f2dcb
+    - name: Drog_Full_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 05b5dff1c88b44c95bb49bbf60197eac
+    - name: Drog_Full_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 11
+        y: 2
+        width: 13
+        height: 15
+      spriteId: 0784d514210e046e1bec522b2b9f10ca
+    - name: Drog_Full_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 13
+        height: 18
+      spriteId: 230de5f027ed94b28a847af8fbd82a8d
+    - name: Drog_Full_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 13
+        height: 19
+      spriteId: f14257f41af6243b1904279a0a81a6f3
+    - name: Drog_Full_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 13
+        height: 19
+      spriteId: d206a868c92fb4ae6afab6d98a75f9d1
+    - name: Drog_Full_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 13
+        height: 18
+      spriteId: 7f55f0f783a474b99ac2555fdb6299a3
+    - name: Drog_Full_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 12
+        y: 2
+        width: 14
+        height: 19
+      spriteId: 66d15b312874a449ba33835a7609f764
+    - name: Drog_Full_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 13
+        height: 17
+      spriteId: e25fbd5a8dbb645c19338896e7df4c44
+    - name: Drog_Full_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 11
+        height: 17
+      spriteId: f463fa7dac5914052a2d8000adc3910a
+    - name: Drog_Full_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 12
+        height: 17
+      spriteId: 4ee7996a614274ff686c3c83253e4084
+    - name: Drog_Full_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 11
+        height: 17
+      spriteId: 4936a4443e38848f586774ec143931b3
+    - name: Drog_Full_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 11
+        height: 17
+      spriteId: d34904e468fcd4b2c83660a06da79426
+    - name: Drog_Full_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 12
+        height: 17
+      spriteId: ffae4a1adc54a45c3b9c043f178ff5bf
+    - name: Drog_Full_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 13
+        height: 18
+      spriteId: 772e4f68a39ab4b1291a7bda407cde4a
+    - name: Drog_Full_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 17
+      spriteId: 0182872c0752c4fc3b3bf627f7193427
+    - name: Drog_Full_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 11
+        height: 17
+      spriteId: 9e131ba19d31d422b992dc68e6a1ef79
+    - name: Drog_Full_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 12
+        height: 17
+      spriteId: 1594d1c536c10451a9baf4977697d8b4
+    - name: Drog_Full_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 10
+        y: 5
+        width: 17
+        height: 14
+      spriteId: 96731543bdd674bfeb96987f489da75d
+    - name: Drog_Full_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 8
+        y: 8
+        width: 17
+        height: 12
+      spriteId: e2485647a79784f77a4c5ee346190adf
+    - name: Drog_Full_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 5
+        width: 16
+        height: 11
+      spriteId: 4b7bba85a6ac94ea7b34b8d7d2d5f810
+    - name: Drog_Full_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 1
+        width: 16
+        height: 12
+      spriteId: 70c821c73f3a2498688b5be10228ffdf
+    - name: Drog_Full_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 0
+        width: 17
+        height: 9
+      spriteId: 577352bb224fb473192fad3ad488a291
+    - name: Drog_Full_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 17
+        height: 9
+      spriteId: dcdd1b401c7fc4a89b12f032ab1f6f11
+    - name: Drog_Full_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 17
+        height: 9
+      spriteId: a6c23c4c7aa164d7e8f1979bfffeb3bd
+    - name: Drog_Full_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 2
+        width: 13
+        height: 17
+      spriteId: 8c9bcb768f3024c79b22d197c6a0b262
+    - name: Drog_Full_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 11
+        height: 17
+      spriteId: 7b48919021a254e9db4681e2cd954f76
+    - name: Drog_Full_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 12
+        height: 17
+      spriteId: 515b3722a64244c6e8c30d482cdaf5ea
+    - name: Drog_Full_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 11
+        height: 17
+      spriteId: 9d2ff72797f7e48f9ac54f6a24b89697
+    - name: Drog_Full_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 11
+        height: 17
+      spriteId: 1db777cf4855a4b2583c7059dc6f36c8
+    - name: Drog_Full_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 12
+        height: 17
+      spriteId: 0dc6ef7576a2a4458823613a8aa83b26
+    - name: Drog_Full_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 13
+        height: 18
+      spriteId: 49d05001a9b3845a2aec4fb606cb2762
+    - name: Drog_Full_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 2
+        width: 13
+        height: 17
+      spriteId: 6ad7ebc73bcf849a0ac8400aa62f0162
+    - name: Drog_Full_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 2
+        width: 11
+        height: 17
+      spriteId: f665e29548ba24b36a5a04eb71adccb3
+    - name: Drog_Full_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 2
+        width: 12
+        height: 17
+      spriteId: d9b024f7509f54025b8956ff710ba531
+    - name: Drog_Full_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 19
+        y: 5
+        width: 17
+        height: 14
+      spriteId: 734aa66a8f09942d9b923528cdebb306
+    - name: Drog_Full_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 21
+        y: 8
+        width: 17
+        height: 12
+      spriteId: 947d3a38c98104d3daf77677cb18088d
+    - name: Drog_Full_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 26
+        y: 5
+        width: 16
+        height: 11
+      spriteId: 1a7b4123b3d6c4d0fa62df9d86f01f14
+    - name: Drog_Full_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 1
+        width: 16
+        height: 12
+      spriteId: 2d8d922042a614d1ea66ef139cfb977b
+    - name: Drog_Full_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 28
+        y: 0
+        width: 17
+        height: 9
+      spriteId: a5a0a909cb2cd4dabb3e09639b636fa0
+    - name: Drog_Full_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 0
+        width: 17
+        height: 9
+      spriteId: e11181d5ea8ff45dea448e736053a708
+    - name: Drog_Full_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 29
+        y: 0
+        width: 17
+        height: 9
+      spriteId: 7d36edcb19fa748a48d6da3ca1c51f1e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 46, y: 27}
